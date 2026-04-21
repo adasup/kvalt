@@ -1,0 +1,30 @@
+{
+  "name": "kvalt",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "turbo dev",
+    "build": "turbo build",
+    "test": "turbo test",
+    "test:watch": "turbo test:watch",
+    "test:coverage": "turbo test:coverage",
+    "lint": "turbo lint",
+    "typecheck": "turbo typecheck",
+    "db:migrate": "turbo db:migrate",
+    "db:seed": "turbo db:seed",
+    "deploy:api": "turbo deploy:api",
+    "deploy:web": "turbo deploy:web"
+  },
+  "devDependencies": {
+    "turbo": "^2.5.3",
+    "typescript": "^5.7.3"
+  },
+  "packageManager": "pnpm@10.33.0",
+  "engines": {
+    "node": ">=20",
+    "pnpm": ">=9"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": ["esbuild", "workerd", "sharp"]
+  }
+}

@@ -1,0 +1,5957 @@
+[
+  {
+    "nazev": "Montáž soklu",
+    "mj": "mb",
+    "cena_prumer": 300,
+    "cena_min": 300,
+    "cena_max": 300,
+    "pocet_vyskytu": 1,
+    "sekce": "#VALUE!",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Bourání předstěn - přizdívek",
+    "mj": "m2",
+    "cena_prumer": 320,
+    "cena_min": 320,
+    "cena_max": 320,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Demontáž XPS z podlah",
+    "mj": "m2",
+    "cena_prumer": 50,
+    "cena_min": 50,
+    "cena_max": 50,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Demontáž bodovek koupelna",
+    "mj": "ks",
+    "cena_prumer": 275,
+    "cena_min": 275,
+    "cena_max": 275,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Demontáž dvěrí kuchyň",
+    "mj": "ks",
+    "cena_prumer": 750,
+    "cena_min": 750,
+    "cena_max": 750,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Demontáž keramického soklu",
+    "mj": "mb",
+    "cena_prumer": 220,
+    "cena_min": 220,
+    "cena_max": 220,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Demontáž nosných prvků stropu",
+    "mj": "ks",
+    "cena_prumer": 600,
+    "cena_min": 600,
+    "cena_max": 600,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Na_Kralovce"
+    ]
+  },
+  {
+    "nazev": "Demontáž otopných těles",
+    "mj": "ks",
+    "cena_prumer": 612,
+    "cena_min": 500,
+    "cena_max": 650,
+    "pocet_vyskytu": 4,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV",
+      "Ocelarska"
+    ]
+  },
+  {
+    "nazev": "Demontáž skříní vestavných",
+    "mj": "soub.",
+    "cena_prumer": 8950,
+    "cena_min": 8950,
+    "cena_max": 8950,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Demontáž soklových lišt",
+    "mj": "mb",
+    "cena_prumer": 40,
+    "cena_min": 40,
+    "cena_max": 40,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Demontáž stojánkové baterie",
+    "mj": "ks",
+    "cena_prumer": 396,
+    "cena_min": 396,
+    "cena_max": 396,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Demontáž umyvadla vč. Podkladní desky",
+    "mj": "ks",
+    "cena_prumer": 1122,
+    "cena_min": 1122,
+    "cena_max": 1122,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Demontáž umyvátka",
+    "mj": "ks",
+    "cena_prumer": 495,
+    "cena_min": 495,
+    "cena_max": 495,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Demontáž vany/sprchy",
+    "mj": "soub.",
+    "cena_prumer": 2422,
+    "cena_min": 1650,
+    "cena_max": 2680,
+    "pocet_vyskytu": 4,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV",
+      "Ocelarska"
+    ]
+  },
+  {
+    "nazev": "Demontáž vloženého SDK do podlah",
+    "mj": "m2",
+    "cena_prumer": 65,
+    "cena_min": 65,
+    "cena_max": 65,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Demontáž zařizovacích předmětů ZTI",
+    "mj": "soub.",
+    "cena_prumer": 4525,
+    "cena_min": 3200,
+    "cena_max": 7900,
+    "pocet_vyskytu": 4,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV",
+      "Ocelarska"
+    ]
+  },
+  {
+    "nazev": "Demontáže kotle a rozvodů u kotle vč. vypuštění topného systému",
+    "mj": "soub.",
+    "cena_prumer": 3333,
+    "cena_min": 2400,
+    "cena_max": 3800,
+    "pocet_vyskytu": 3,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Demontáže osvětlení a elektro komponentů v bytě",
+    "mj": "soub.",
+    "cena_prumer": 4100,
+    "cena_min": 3450,
+    "cena_max": 4750,
+    "pocet_vyskytu": 2,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Demontážse SDK stropů",
+    "mj": "m2",
+    "cena_prumer": 325,
+    "cena_min": 250,
+    "cena_max": 375,
+    "pocet_vyskytu": 3,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Drobné demontáže v bytě - závěsy, zrcadla …",
+    "mj": "soub.",
+    "cena_prumer": 2852,
+    "cena_min": 860,
+    "cena_max": 6500,
+    "pocet_vyskytu": 4,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV",
+      "Ocelarska"
+    ]
+  },
+  {
+    "nazev": "Jádrové vrtání pro kanál za TV",
+    "mj": "soub.",
+    "cena_prumer": 8250,
+    "cena_min": 8250,
+    "cena_max": 8250,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Naložení nabouraných hmot do pytlů",
+    "mj": "soub.",
+    "cena_prumer": 17688,
+    "cena_min": 5250,
+    "cena_max": 27500,
+    "pocet_vyskytu": 4,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV",
+      "Ocelarska"
+    ]
+  },
+  {
+    "nazev": "Naložení náspu do pytlů",
+    "mj": "soub.",
+    "cena_prumer": 7350,
+    "cena_min": 5200,
+    "cena_max": 9500,
+    "pocet_vyskytu": 2,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Odpojení stavajícího elektro rozvodu a příprava na stavební odběr",
+    "mj": "soub.",
+    "cena_prumer": 6400,
+    "cena_min": 3300,
+    "cena_max": 11000,
+    "pocet_vyskytu": 4,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV",
+      "Ocelarska"
+    ]
+  },
+  {
+    "nazev": "Odstranění dlažby a podkladní vrstvy",
+    "mj": "m2",
+    "cena_prumer": 408,
+    "cena_min": 370,
+    "cena_max": 420,
+    "pocet_vyskytu": 4,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV",
+      "Ocelarska"
+    ]
+  },
+  {
+    "nazev": "Odstranění soklových lišt",
+    "mj": "soub.",
+    "cena_prumer": 2950,
+    "cena_min": 2950,
+    "cena_max": 2950,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Odstranění soklových lišt",
+    "mj": "mb",
+    "cena_prumer": 20,
+    "cena_min": 20,
+    "cena_max": 20,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Osekání obkladu a podkladní vrstvy",
+    "mj": "m2",
+    "cena_prumer": 281,
+    "cena_min": 250,
+    "cena_max": 325,
+    "pocet_vyskytu": 4,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV",
+      "Ocelarska"
+    ]
+  },
+  {
+    "nazev": "Osekání omítky klenutých stropů",
+    "mj": "m2",
+    "cena_prumer": 525,
+    "cena_min": 525,
+    "cena_max": 525,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Přemístění nosného prvku stropu",
+    "mj": "ks",
+    "cena_prumer": 1950,
+    "cena_min": 1950,
+    "cena_max": 1950,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Na_Kralovce"
+    ]
+  },
+  {
+    "nazev": "Realizace drážek pro elektro, voda a kanalizace",
+    "mj": "mb",
+    "cena_prumer": 704,
+    "cena_min": 704,
+    "cena_max": 704,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Realizace otvorů do stěn pro zásuvky a vypínače",
+    "mj": "ks",
+    "cena_prumer": 450,
+    "cena_min": 450,
+    "cena_max": 450,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Realizace otvorů pro nové zásuvky a vypínače",
+    "mj": "soub.",
+    "cena_prumer": 17050,
+    "cena_min": 17050,
+    "cena_max": 17050,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Rozebrání kuchyňské linky",
+    "mj": "ks",
+    "cena_prumer": 5025,
+    "cena_min": 2750,
+    "cena_max": 7350,
+    "pocet_vyskytu": 4,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV",
+      "Ocelarska"
+    ]
+  },
+  {
+    "nazev": "Rozebrání nášlapné vrstvy - plovoucí podlaha",
+    "mj": "m2",
+    "cena_prumer": 120,
+    "cena_min": 120,
+    "cena_max": 120,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Uprava roháčku pro pračku",
+    "mj": "soub.",
+    "cena_prumer": 550,
+    "cena_min": 550,
+    "cena_max": 550,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Vybourání betonového základu pro příčku",
+    "mj": "mb",
+    "cena_prumer": 400,
+    "cena_min": 400,
+    "cena_max": 400,
+    "pocet_vyskytu": 2,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Vybourání betonu v tl. 60 mm",
+    "mj": "m2",
+    "cena_prumer": 800,
+    "cena_min": 650,
+    "cena_max": 1100,
+    "pocet_vyskytu": 4,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV",
+      "Ocelarska"
+    ]
+  },
+  {
+    "nazev": "Vybourání drážky pro kanál ze strany kuchyně",
+    "mj": "soub.",
+    "cena_prumer": 1705,
+    "cena_min": 1705,
+    "cena_max": 1705,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Vybourání obezdívky vany",
+    "mj": "soub.",
+    "cena_prumer": 5562,
+    "cena_min": 2200,
+    "cena_max": 7400,
+    "pocet_vyskytu": 4,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV",
+      "Ocelarska"
+    ]
+  },
+  {
+    "nazev": "Vybourání obložkových zárubní nových",
+    "mj": "ks",
+    "cena_prumer": 570,
+    "cena_min": 570,
+    "cena_max": 570,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Vybourání okének do světlíku",
+    "mj": "ks",
+    "cena_prumer": 1008,
+    "cena_min": 650,
+    "cena_max": 1245,
+    "pocet_vyskytu": 3,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Vybourání patra nad koupelnou",
+    "mj": "soub.",
+    "cena_prumer": 6950,
+    "cena_min": 6950,
+    "cena_max": 6950,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Vybourání posuvných dveří do kapsy",
+    "mj": "ks",
+    "cena_prumer": 2400,
+    "cena_min": 2400,
+    "cena_max": 2400,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Vybourání příček",
+    "mj": "m2",
+    "cena_prumer": 395,
+    "cena_min": 350,
+    "cena_max": 480,
+    "pocet_vyskytu": 4,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV",
+      "Ocelarska"
+    ]
+  },
+  {
+    "nazev": "Vybourání stávajícího schodiště",
+    "mj": "ks",
+    "cena_prumer": 11000,
+    "cena_min": 11000,
+    "cena_max": 11000,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Vybourání zárubní dvojitých",
+    "mj": "ks",
+    "cena_prumer": 4300,
+    "cena_min": 4300,
+    "cena_max": 4300,
+    "pocet_vyskytu": 2,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Vybourání zárubní jednoduchých",
+    "mj": "ks",
+    "cena_prumer": 1598,
+    "cena_min": 495,
+    "cena_max": 2150,
+    "pocet_vyskytu": 3,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Vybrání náspu z podlah v tl. Do 6 cm",
+    "mj": "m2",
+    "cena_prumer": 180,
+    "cena_min": 180,
+    "cena_max": 180,
+    "pocet_vyskytu": 2,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Vytrhání dřevěného záklopu pod parketama vč. polštářů",
+    "mj": "m2",
+    "cena_prumer": 260,
+    "cena_min": 260,
+    "cena_max": 260,
+    "pocet_vyskytu": 2,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Vytrhání parket",
+    "mj": "m2",
+    "cena_prumer": 275,
+    "cena_min": 260,
+    "cena_max": 305,
+    "pocet_vyskytu": 3,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Vyřezání drážek do stěn a stropů",
+    "mj": "mb",
+    "cena_prumer": 430,
+    "cena_min": 430,
+    "cena_max": 430,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Zakrytí vstupních dveří a oken",
+    "mj": "soub.",
+    "cena_prumer": 7000,
+    "cena_min": 7000,
+    "cena_max": 7000,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Bourání předstěn tl. 250",
+    "mj": "m2",
+    "cena_prumer": 730,
+    "cena_min": 730,
+    "cena_max": 730,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Bourání příček tl. 200",
+    "mj": "m2",
+    "cena_prumer": 830,
+    "cena_min": 830,
+    "cena_max": 830,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Bourání příčky tl. 100",
+    "mj": "m2",
+    "cena_prumer": 480,
+    "cena_min": 480,
+    "cena_max": 480,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demonitáž dlažba + lepidlo",
+    "mj": "m2",
+    "cena_prumer": 370,
+    "cena_min": 370,
+    "cena_max": 370,
+    "pocet_vyskytu": 2,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demonitáž dřevěné podlahy",
+    "mj": "m2",
+    "cena_prumer": 228,
+    "cena_min": 215,
+    "cena_max": 230,
+    "pocet_vyskytu": 7,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demonitáž vestavěného ventilátoru",
+    "mj": "ks",
+    "cena_prumer": 490,
+    "cena_min": 490,
+    "cena_max": 490,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž - odstranění tapety",
+    "mj": "m2",
+    "cena_prumer": 205,
+    "cena_min": 205,
+    "cena_max": 205,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž Dřez + baterie",
+    "mj": "ks",
+    "cena_prumer": 920,
+    "cena_min": 920,
+    "cena_max": 920,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž EZS",
+    "mj": "ks",
+    "cena_prumer": 188,
+    "cena_min": 150,
+    "cena_max": 300,
+    "pocet_vyskytu": 4,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž EZS (čidla)",
+    "mj": "ks",
+    "cena_prumer": 300,
+    "cena_min": 300,
+    "cena_max": 300,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž EZS - datový rozvaděč",
+    "mj": "ks",
+    "cena_prumer": 1600,
+    "cena_min": 1600,
+    "cena_max": 1600,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž EZS rozvodny",
+    "mj": "soub",
+    "cena_prumer": 1640,
+    "cena_min": 1640,
+    "cena_max": 1640,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž Kompletace elektro",
+    "mj": "soub.",
+    "cena_prumer": 2750,
+    "cena_min": 2750,
+    "cena_max": 2750,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž Kompletace elektro",
+    "mj": "ks",
+    "cena_prumer": 160,
+    "cena_min": 160,
+    "cena_max": 160,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž Krytu, Kolejnice a posuvných dveří",
+    "mj": "soub",
+    "cena_prumer": 2400,
+    "cena_min": 2400,
+    "cena_max": 2400,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž SDK kastlík",
+    "mj": "m2",
+    "cena_prumer": 375,
+    "cena_min": 375,
+    "cena_max": 375,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž SDK příčka",
+    "mj": "m2",
+    "cena_prumer": 375,
+    "cena_min": 375,
+    "cena_max": 375,
+    "pocet_vyskytu": 2,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž TV stěna",
+    "mj": "soub.",
+    "cena_prumer": 2660,
+    "cena_min": 2660,
+    "cena_max": 2660,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž ZTI",
+    "mj": "ks",
+    "cena_prumer": 604,
+    "cena_min": 470,
+    "cena_max": 700,
+    "pocet_vyskytu": 4,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž a likvidace skříň",
+    "mj": "soub",
+    "cena_prumer": 4650,
+    "cena_min": 4650,
+    "cena_max": 4650,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž bezpečnostních protipožárních dveří",
+    "mj": "ks",
+    "cena_prumer": 800,
+    "cena_min": 800,
+    "cena_max": 800,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž digestoř",
+    "mj": "ks",
+    "cena_prumer": 800,
+    "cena_min": 800,
+    "cena_max": 800,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž dlažby + lepidlo",
+    "mj": "m2",
+    "cena_prumer": 370,
+    "cena_min": 370,
+    "cena_max": 370,
+    "pocet_vyskytu": 4,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž dveří vč. Obložek",
+    "mj": "ks",
+    "cena_prumer": 755,
+    "cena_min": 680,
+    "cena_max": 780,
+    "pocet_vyskytu": 4,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž dveří včetně obložky",
+    "mj": "ks",
+    "cena_prumer": 670,
+    "cena_min": 650,
+    "cena_max": 680,
+    "pocet_vyskytu": 3,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž dřevěné podlahy",
+    "mj": "m2",
+    "cena_prumer": 230,
+    "cena_min": 230,
+    "cena_max": 230,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž dřevěné terasy",
+    "mj": "m2",
+    "cena_prumer": 245,
+    "cena_min": 245,
+    "cena_max": 245,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž fancoil",
+    "mj": "ks",
+    "cena_prumer": 1350,
+    "cena_min": 1350,
+    "cena_max": 1350,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž garnyž",
+    "mj": "ks",
+    "cena_prumer": 130,
+    "cena_min": 130,
+    "cena_max": 130,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž kompletace elektro",
+    "mj": "ks",
+    "cena_prumer": 160,
+    "cena_min": 160,
+    "cena_max": 160,
+    "pocet_vyskytu": 16,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž kotle + zásobníku",
+    "mj": "soub",
+    "cena_prumer": 5200,
+    "cena_min": 5200,
+    "cena_max": 5200,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž kuchyňské linky",
+    "mj": "soub.",
+    "cena_prumer": 5870,
+    "cena_min": 5870,
+    "cena_max": 5870,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž kuchyňský ostrůvek",
+    "mj": "soub.",
+    "cena_prumer": 4070,
+    "cena_min": 4070,
+    "cena_max": 4070,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž lepené zrcadlo",
+    "mj": "m2",
+    "cena_prumer": 325,
+    "cena_min": 325,
+    "cena_max": 325,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž madla na schodech",
+    "mj": "soub",
+    "cena_prumer": 600,
+    "cena_min": 600,
+    "cena_max": 600,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž madlo schodiště",
+    "mj": "bm",
+    "cena_prumer": 300,
+    "cena_min": 300,
+    "cena_max": 300,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž modulu WC",
+    "mj": "ks",
+    "cena_prumer": 1350,
+    "cena_min": 1350,
+    "cena_max": 1350,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž mřížek fancoil",
+    "mj": "ks",
+    "cena_prumer": 100,
+    "cena_min": 100,
+    "cena_max": 100,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž nosného prvku zábradlí",
+    "mj": "ks",
+    "cena_prumer": 1440,
+    "cena_min": 1440,
+    "cena_max": 1440,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž nosných prvků zábradlí",
+    "mj": "ks",
+    "cena_prumer": 1440,
+    "cena_min": 1440,
+    "cena_max": 1440,
+    "pocet_vyskytu": 2,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž nášlapné vrstvy schodů",
+    "mj": "ks",
+    "cena_prumer": 340,
+    "cena_min": 340,
+    "cena_max": 340,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž nášlapů schodů",
+    "mj": "ks",
+    "cena_prumer": 340,
+    "cena_min": 340,
+    "cena_max": 340,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž obklad + lepidlo",
+    "mj": "m2",
+    "cena_prumer": 300,
+    "cena_min": 300,
+    "cena_max": 300,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž obkladu + lepidlo",
+    "mj": "m2",
+    "cena_prumer": 348,
+    "cena_min": 300,
+    "cena_max": 490,
+    "pocet_vyskytu": 4,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž obložka, kolejnice a posuvné dveře",
+    "mj": "soub",
+    "cena_prumer": 2410,
+    "cena_min": 2400,
+    "cena_max": 2420,
+    "pocet_vyskytu": 4,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž parapet",
+    "mj": "ks",
+    "cena_prumer": 330,
+    "cena_min": 330,
+    "cena_max": 330,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž parapetu",
+    "mj": "ks",
+    "cena_prumer": 310,
+    "cena_min": 300,
+    "cena_max": 330,
+    "pocet_vyskytu": 3,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž plynová varná deska",
+    "mj": "ks",
+    "cena_prumer": 580,
+    "cena_min": 580,
+    "cena_max": 580,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž posuvných dveří vč. Obložky",
+    "mj": "ks",
+    "cena_prumer": 2420,
+    "cena_min": 2420,
+    "cena_max": 2420,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž pouzdra posuvných dveří",
+    "mj": "ks",
+    "cena_prumer": 978,
+    "cena_min": 850,
+    "cena_max": 1020,
+    "pocet_vyskytu": 4,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž revizní dvířka",
+    "mj": "ks",
+    "cena_prumer": 350,
+    "cena_min": 350,
+    "cena_max": 350,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž revizních dvířek",
+    "mj": "ks",
+    "cena_prumer": 340,
+    "cena_min": 330,
+    "cena_max": 350,
+    "pocet_vyskytu": 2,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž skleněné výplně schody",
+    "mj": "ks",
+    "cena_prumer": 1750,
+    "cena_min": 1750,
+    "cena_max": 1750,
+    "pocet_vyskytu": 3,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž skleněného zábradlí",
+    "mj": "ks",
+    "cena_prumer": 1750,
+    "cena_min": 1750,
+    "cena_max": 1750,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž skříně",
+    "mj": "soub",
+    "cena_prumer": 3477,
+    "cena_min": 2620,
+    "cena_max": 4880,
+    "pocet_vyskytu": 3,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž sníženého SDK stropu",
+    "mj": "m2",
+    "cena_prumer": 375,
+    "cena_min": 375,
+    "cena_max": 375,
+    "pocet_vyskytu": 6,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž soklové lišty",
+    "mj": "bm",
+    "cena_prumer": 40,
+    "cena_min": 40,
+    "cena_max": 40,
+    "pocet_vyskytu": 8,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž soklové lišty keramické",
+    "mj": "bm",
+    "cena_prumer": 100,
+    "cena_min": 100,
+    "cena_max": 100,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž soklu keramického",
+    "mj": "bm",
+    "cena_prumer": 100,
+    "cena_min": 100,
+    "cena_max": 100,
+    "pocet_vyskytu": 5,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž spotřebiče kuchyně",
+    "mj": "ks",
+    "cena_prumer": 620,
+    "cena_min": 620,
+    "cena_max": 620,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž sprchové vaničky",
+    "mj": "soub",
+    "cena_prumer": 1250,
+    "cena_min": 1250,
+    "cena_max": 1250,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž sprchové vaničky vč. Podezdívky",
+    "mj": "soub",
+    "cena_prumer": 3840,
+    "cena_min": 3840,
+    "cena_max": 3840,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž sprchové zástěny",
+    "mj": "soub",
+    "cena_prumer": 500,
+    "cena_min": 500,
+    "cena_max": 500,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž sprchové zástěny",
+    "mj": "ks",
+    "cena_prumer": 500,
+    "cena_min": 500,
+    "cena_max": 500,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž světel přisazených",
+    "mj": "ks",
+    "cena_prumer": 319,
+    "cena_min": 305,
+    "cena_max": 565,
+    "pocet_vyskytu": 19,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž topení",
+    "mj": "ks",
+    "cena_prumer": 700,
+    "cena_min": 700,
+    "cena_max": 700,
+    "pocet_vyskytu": 3,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž topení radiatoru",
+    "mj": "ks",
+    "cena_prumer": 700,
+    "cena_min": 700,
+    "cena_max": 700,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž topení radiátor",
+    "mj": "ks",
+    "cena_prumer": 600,
+    "cena_min": 600,
+    "cena_max": 600,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž umyvadel a skřínky",
+    "mj": "soub",
+    "cena_prumer": 3600,
+    "cena_min": 3600,
+    "cena_max": 3600,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž ventilační mřížka",
+    "mj": "ks",
+    "cena_prumer": 130,
+    "cena_min": 130,
+    "cena_max": 130,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž ventilačních mřížek",
+    "mj": "ks",
+    "cena_prumer": 141,
+    "cena_min": 120,
+    "cena_max": 300,
+    "pocet_vyskytu": 9,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž ventilátor",
+    "mj": "ks",
+    "cena_prumer": 480,
+    "cena_min": 480,
+    "cena_max": 480,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž ventilátoru",
+    "mj": "ks",
+    "cena_prumer": 398,
+    "cena_min": 355,
+    "cena_max": 440,
+    "pocet_vyskytu": 2,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž vestavného vysavače vč. Trasy",
+    "mj": "soub",
+    "cena_prumer": 1750,
+    "cena_min": 1750,
+    "cena_max": 1750,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž vnitřního stínení - žaluzie",
+    "mj": "ks",
+    "cena_prumer": 130,
+    "cena_min": 130,
+    "cena_max": 130,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž vnitřního stínění žaluzie",
+    "mj": "ks",
+    "cena_prumer": 150,
+    "cena_min": 130,
+    "cena_max": 230,
+    "pocet_vyskytu": 5,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž zápustných světel",
+    "mj": "ks",
+    "cena_prumer": 275,
+    "cena_min": 275,
+    "cena_max": 275,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáže osvětlení a elektro komponentů v bytě vč. Opatrné demontáže rozvaděčů",
+    "mj": "soub.",
+    "cena_prumer": 5650,
+    "cena_min": 5650,
+    "cena_max": 5650,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Ocelarska"
+    ]
+  },
+  {
+    "nazev": "Demontáže prvků VZT",
+    "mj": "ks",
+    "cena_prumer": 700,
+    "cena_min": 700,
+    "cena_max": 700,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Ocelarska"
+    ]
+  },
+  {
+    "nazev": "Drobné demontáže",
+    "mj": "soub",
+    "cena_prumer": 730,
+    "cena_min": 720,
+    "cena_max": 750,
+    "pocet_vyskytu": 3,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Drobné demontáže a likvidace",
+    "mj": "soub.",
+    "cena_prumer": 1200,
+    "cena_min": 1200,
+    "cena_max": 1200,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Odpojení Sauna",
+    "mj": "soub",
+    "cena_prumer": 5100,
+    "cena_min": 5100,
+    "cena_max": 5100,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Odstranění tapet",
+    "mj": "m2",
+    "cena_prumer": 130,
+    "cena_min": 130,
+    "cena_max": 130,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Otrhání soklových lišt a keramického soklu",
+    "mj": "soub.",
+    "cena_prumer": 1950,
+    "cena_min": 1950,
+    "cena_max": 1950,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Ocelarska"
+    ]
+  },
+  {
+    "nazev": "Přemístění/likvidace spotřebičů",
+    "mj": "soub",
+    "cena_prumer": 1800,
+    "cena_min": 1800,
+    "cena_max": 1800,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Vybourání WC modulu",
+    "mj": "soub",
+    "cena_prumer": 1475,
+    "cena_min": 1450,
+    "cena_max": 1500,
+    "pocet_vyskytu": 2,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Vybourání Zrcadlo",
+    "mj": "m2",
+    "cena_prumer": 325,
+    "cena_min": 325,
+    "cena_max": 325,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Vybourání dlažba + lepidlo",
+    "mj": "m2",
+    "cena_prumer": 370,
+    "cena_min": 370,
+    "cena_max": 370,
+    "pocet_vyskytu": 3,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Vybourání dveří",
+    "mj": "ks",
+    "cena_prumer": 705,
+    "cena_min": 705,
+    "cena_max": 705,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Ocelarska"
+    ]
+  },
+  {
+    "nazev": "Vybourání dřevěné podlahy",
+    "mj": "m2",
+    "cena_prumer": 180,
+    "cena_min": 130,
+    "cena_max": 230,
+    "pocet_vyskytu": 2,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka",
+      "Ocelarska"
+    ]
+  },
+  {
+    "nazev": "Vybourání modulu WC",
+    "mj": "ks",
+    "cena_prumer": 1350,
+    "cena_min": 1350,
+    "cena_max": 1350,
+    "pocet_vyskytu": 2,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Vybourání modulů WC",
+    "mj": "ks",
+    "cena_prumer": 1900,
+    "cena_min": 1900,
+    "cena_max": 1900,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Ocelarska"
+    ]
+  },
+  {
+    "nazev": "Vybourání přizdívky",
+    "mj": "m2",
+    "cena_prumer": 730,
+    "cena_min": 730,
+    "cena_max": 730,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Vybourání přizdívky tl 200",
+    "mj": "m2",
+    "cena_prumer": 900,
+    "cena_min": 900,
+    "cena_max": 900,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Vybourání původních příček z podlahy",
+    "mj": "mb",
+    "cena_prumer": 330,
+    "cena_min": 330,
+    "cena_max": 330,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Ocelarska"
+    ]
+  },
+  {
+    "nazev": "Vybourání stavebního otvoru",
+    "mj": "soub",
+    "cena_prumer": 5150,
+    "cena_min": 5150,
+    "cena_max": 5150,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Vybourání stavebního otvoru",
+    "mj": "m2",
+    "cena_prumer": 753,
+    "cena_min": 730,
+    "cena_max": 800,
+    "pocet_vyskytu": 3,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Vybourání stěny",
+    "mj": "m2",
+    "cena_prumer": 780,
+    "cena_min": 730,
+    "cena_max": 830,
+    "pocet_vyskytu": 2,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Vybourání stěny - dveřní otvor",
+    "mj": "soub",
+    "cena_prumer": 2750,
+    "cena_min": 2750,
+    "cena_max": 2750,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Vybourání stěny tl. 100",
+    "mj": "m2",
+    "cena_prumer": 480,
+    "cena_min": 480,
+    "cena_max": 480,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Vybourání stěny tl. 150",
+    "mj": "m2",
+    "cena_prumer": 560,
+    "cena_min": 560,
+    "cena_max": 560,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Vybourání stěny za WC",
+    "mj": "soub.",
+    "cena_prumer": 4550,
+    "cena_min": 4550,
+    "cena_max": 4550,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Vybourání van pro fancoil",
+    "mj": "ks",
+    "cena_prumer": 1850,
+    "cena_min": 1850,
+    "cena_max": 1850,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Vybourání vana + obezdívka",
+    "mj": "soub",
+    "cena_prumer": 6500,
+    "cena_min": 6500,
+    "cena_max": 6500,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Vypuštění topného systému",
+    "mj": "soub.",
+    "cena_prumer": 3560,
+    "cena_min": 3560,
+    "cena_max": 3560,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Vypuštění/ uzavření - okruhu topení",
+    "mj": "soub.",
+    "cena_prumer": 2620,
+    "cena_min": 2620,
+    "cena_max": 2620,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Ocelarska"
+    ]
+  },
+  {
+    "nazev": "Zakrytí vstupních dveří",
+    "mj": "ks",
+    "cena_prumer": 1330,
+    "cena_min": 1330,
+    "cena_max": 1330,
+    "pocet_vyskytu": 2,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka",
+      "Ocelarska"
+    ]
+  },
+  {
+    "nazev": "Zakrytí výtahu",
+    "mj": "soub.",
+    "cena_prumer": 1400,
+    "cena_min": 1400,
+    "cena_max": 1400,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Ocelarska"
+    ]
+  },
+  {
+    "nazev": "demontáž topení",
+    "mj": "ks",
+    "cena_prumer": 700,
+    "cena_min": 700,
+    "cena_max": 700,
+    "pocet_vyskytu": 4,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "demontáž topení žebřík",
+    "mj": "ks",
+    "cena_prumer": 700,
+    "cena_min": 700,
+    "cena_max": 700,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Řez podlahy",
+    "mj": "mb",
+    "cena_prumer": 210,
+    "cena_min": 210,
+    "cena_max": 210,
+    "pocet_vyskytu": 1,
+    "sekce": "Bourací práce, demontáže a zakrývání",
+    "projekty": [
+      "Ocelarska"
+    ]
+  },
+  {
+    "nazev": "Betonáž drážek v podlaze",
+    "mj": "mb",
+    "cena_prumer": 780,
+    "cena_min": 780,
+    "cena_max": 780,
+    "pocet_vyskytu": 1,
+    "sekce": "Dlažby keramické a podlahové konstrukce",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Dodávaka vyrovnání liaporu",
+    "mj": "m2",
+    "cena_prumer": 615,
+    "cena_min": 615,
+    "cena_max": 615,
+    "pocet_vyskytu": 2,
+    "sekce": "Dlažby keramické a podlahové konstrukce",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Dodávka a pokládka OSB desek tl. 18 mm + 18 mm - lepení apokládka do kříže",
+    "mj": "m2",
+    "cena_prumer": 950,
+    "cena_min": 950,
+    "cena_max": 950,
+    "pocet_vyskytu": 2,
+    "sekce": "Dlažby keramické a podlahové konstrukce",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Dodávka a položení Adipan hobra deska tl. 5,5 mm",
+    "mj": "m2",
+    "cena_prumer": 205,
+    "cena_min": 205,
+    "cena_max": 205,
+    "pocet_vyskytu": 2,
+    "sekce": "Dlažby keramické a podlahové konstrukce",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Montáž keramických dlažeb na flex lepidlo",
+    "mj": "m2",
+    "cena_prumer": 2267,
+    "cena_min": 1800,
+    "cena_max": 2500,
+    "pocet_vyskytu": 3,
+    "sekce": "Dlažby keramické a podlahové konstrukce",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Podlahy betonové koupelna",
+    "mj": "m2",
+    "cena_prumer": 2600,
+    "cena_min": 2600,
+    "cena_max": 2600,
+    "pocet_vyskytu": 3,
+    "sekce": "Dlažby keramické a podlahové konstrukce",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Realizace základu pod nové vyzdívky",
+    "mj": "mb",
+    "cena_prumer": 800,
+    "cena_min": 800,
+    "cena_max": 800,
+    "pocet_vyskytu": 1,
+    "sekce": "Dlažby keramické a podlahové konstrukce",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Separační vrstva",
+    "mj": "m2",
+    "cena_prumer": 90,
+    "cena_min": 90,
+    "cena_max": 90,
+    "pocet_vyskytu": 2,
+    "sekce": "Dlažby keramické a podlahové konstrukce",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Vyrovnání klenby lehčeným betonem",
+    "mj": "m2",
+    "cena_prumer": 1600,
+    "cena_min": 1600,
+    "cena_max": 1600,
+    "pocet_vyskytu": 1,
+    "sekce": "Dlažby keramické a podlahové konstrukce",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Dveře Dorsis",
+    "mj": "ks",
+    "cena_prumer": 27600,
+    "cena_min": 27600,
+    "cena_max": 27600,
+    "pocet_vyskytu": 1,
+    "sekce": "Dodávky",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Dveře a obložky dodávka a montáž",
+    "mj": "ks",
+    "cena_prumer": 9500,
+    "cena_min": 9500,
+    "cena_max": 9500,
+    "pocet_vyskytu": 1,
+    "sekce": "Dodávky",
+    "projekty": [
+      "Na_Kralovce"
+    ]
+  },
+  {
+    "nazev": "Kování - zatím odhad",
+    "mj": "ks",
+    "cena_prumer": 3400,
+    "cena_min": 3400,
+    "cena_max": 3400,
+    "pocet_vyskytu": 1,
+    "sekce": "Dodávky",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Kůrka dřevěná podlaha",
+    "mj": "soub.",
+    "cena_prumer": 132500,
+    "cena_min": 45000,
+    "cena_max": 220000,
+    "pocet_vyskytu": 2,
+    "sekce": "Dodávky",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Modul WC - Geberit",
+    "mj": "ks",
+    "cena_prumer": 5000,
+    "cena_min": 5000,
+    "cena_max": 5000,
+    "pocet_vyskytu": 1,
+    "sekce": "Dodávky",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "ORAC CX 127",
+    "mj": "mb",
+    "cena_prumer": 550,
+    "cena_min": 550,
+    "cena_max": 550,
+    "pocet_vyskytu": 1,
+    "sekce": "Dodávky",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "ORAC PX 103",
+    "mj": "mb",
+    "cena_prumer": 190,
+    "cena_min": 190,
+    "cena_max": 190,
+    "pocet_vyskytu": 1,
+    "sekce": "Dodávky",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Obklady + dlažby",
+    "mj": "soub.",
+    "cena_prumer": 30000,
+    "cena_min": 15000,
+    "cena_max": 45000,
+    "pocet_vyskytu": 2,
+    "sekce": "Dodávky",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Osvětlení",
+    "mj": "soub.",
+    "cena_prumer": 80000,
+    "cena_min": 10000,
+    "cena_max": 150000,
+    "pocet_vyskytu": 2,
+    "sekce": "Dodávky",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Sklenář",
+    "mj": "soub.",
+    "cena_prumer": 32000,
+    "cena_min": 32000,
+    "cena_max": 32000,
+    "pocet_vyskytu": 2,
+    "sekce": "Dodávky",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Vojtěch - truhlařina obložky",
+    "mj": "soub.",
+    "cena_prumer": 68000,
+    "cena_min": 68000,
+    "cena_max": 68000,
+    "pocet_vyskytu": 1,
+    "sekce": "Dodávky",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Vstupní dveře Kavan - nebo jiný dodavatel",
+    "mj": "ks",
+    "cena_prumer": 220000,
+    "cena_min": 220000,
+    "cena_max": 220000,
+    "pocet_vyskytu": 1,
+    "sekce": "Dodávky",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Zařizováky",
+    "mj": "soub.",
+    "cena_prumer": 40000,
+    "cena_min": 30000,
+    "cena_max": 50000,
+    "pocet_vyskytu": 2,
+    "sekce": "Dodávky",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Zámečnická výroba",
+    "mj": "soub.",
+    "cena_prumer": 28000,
+    "cena_min": 28000,
+    "cena_max": 28000,
+    "pocet_vyskytu": 1,
+    "sekce": "Dodávky",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Zárubně Dorsis",
+    "mj": "ks",
+    "cena_prumer": 28550,
+    "cena_min": 28550,
+    "cena_max": 28550,
+    "pocet_vyskytu": 1,
+    "sekce": "Dodávky",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "DATA 2 včetně zapojení CAT 6",
+    "mj": "ks",
+    "cena_prumer": 1100,
+    "cena_min": 1100,
+    "cena_max": 1100,
+    "pocet_vyskytu": 2,
+    "sekce": "Elektro",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Ekvipotenciální přípojnice, připojení 1x FeZn 30x4, 6x vodič do 16 mm2",
+    "mj": "ks",
+    "cena_prumer": 933,
+    "cena_min": 800,
+    "cena_max": 1200,
+    "pocet_vyskytu": 3,
+    "sekce": "Elektro",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Jistič 3fáz",
+    "mj": "",
+    "cena_prumer": 1320,
+    "cena_min": 1320,
+    "cena_max": 1320,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektro",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Kabel CY6",
+    "mj": "",
+    "cena_prumer": 7800,
+    "cena_min": 7800,
+    "cena_max": 7800,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektro",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Kabel CYKY J-3x1,5 mm2",
+    "mj": "",
+    "cena_prumer": 68100,
+    "cena_min": 68100,
+    "cena_max": 68100,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektro",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Kabel CYKY J-3x2,5 mm2",
+    "mj": "",
+    "cena_prumer": 81400,
+    "cena_min": 81400,
+    "cena_max": 81400,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektro",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Kabel CYKY J-5x1,5 mm2",
+    "mj": "",
+    "cena_prumer": 7500,
+    "cena_min": 7500,
+    "cena_max": 7500,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektro",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Kabel CYKY J-5x2,5 mm2",
+    "mj": "",
+    "cena_prumer": 5000,
+    "cena_min": 5000,
+    "cena_max": 5000,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektro",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Kabel CYKY O-3x1,5 mm2",
+    "mj": "",
+    "cena_prumer": 18500,
+    "cena_min": 18500,
+    "cena_max": 18500,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektro",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Krabice kaiser  přístrojová pod omítku s montáží",
+    "mj": "ks",
+    "cena_prumer": 250,
+    "cena_min": 250,
+    "cena_max": 250,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektro",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Krabice přístrojová kaiser rozbočná pod omítku  extra s montáží",
+    "mj": "ks",
+    "cena_prumer": 300,
+    "cena_min": 300,
+    "cena_max": 300,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektro",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Krabice přístrojová kaiser rozbočná pod omítku s kapsou s montáží",
+    "mj": "ks",
+    "cena_prumer": 406,
+    "cena_min": 406,
+    "cena_max": 406,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektro",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Krabice přístrojová pod omítku komplet včetně usazení",
+    "mj": "ks",
+    "cena_prumer": 120,
+    "cena_min": 120,
+    "cena_max": 120,
+    "pocet_vyskytu": 2,
+    "sekce": "Elektro",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Krabice přístrojová rozbočná pod omítku  komplet včetně uzazení a zapojení",
+    "mj": "ks",
+    "cena_prumer": 170,
+    "cena_min": 170,
+    "cena_max": 170,
+    "pocet_vyskytu": 2,
+    "sekce": "Elektro",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Krabicová rozvodka",
+    "mj": "ks",
+    "cena_prumer": 110,
+    "cena_min": 110,
+    "cena_max": 110,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektro",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "PVC + kabel k LED pásku",
+    "mj": "",
+    "cena_prumer": 6600,
+    "cena_min": 6600,
+    "cena_max": 6600,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektro",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Podlahové topení termostat včetně rohože a přívodů 2m2",
+    "mj": "ks",
+    "cena_prumer": 14883,
+    "cena_min": 14883,
+    "cena_max": 14883,
+    "pocet_vyskytu": 2,
+    "sekce": "Elektro",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Podlahové topení termostat včetně rohože a přívodů 4m2",
+    "mj": "ks",
+    "cena_prumer": 16189,
+    "cena_min": 16189,
+    "cena_max": 16189,
+    "pocet_vyskytu": 2,
+    "sekce": "Elektro",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Rozvaděč Multimediální ABB 42 M+ propojovací lišty,svorkovnice, vodiče,popisky,štítek",
+    "mj": "ks",
+    "cena_prumer": 24640,
+    "cena_min": 24640,
+    "cena_max": 24640,
+    "pocet_vyskytu": 2,
+    "sekce": "Elektro",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Rozvaděč domovní 72M + hřebenové lišty, můstky",
+    "mj": "",
+    "cena_prumer": 10800,
+    "cena_min": 10800,
+    "cena_max": 10800,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektro",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "TV včetně zapojení",
+    "mj": "ks",
+    "cena_prumer": 950,
+    "cena_min": 950,
+    "cena_max": 950,
+    "pocet_vyskytu": 2,
+    "sekce": "Elektro",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "chránič 3 fáz typ A",
+    "mj": "ks",
+    "cena_prumer": 2200,
+    "cena_min": 2200,
+    "cena_max": 2200,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektro",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "chránič kombi charakteristika C typ A",
+    "mj": "ks",
+    "cena_prumer": 2400,
+    "cena_min": 2400,
+    "cena_max": 2400,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektro",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "chráničky",
+    "mj": "",
+    "cena_prumer": 2250,
+    "cena_min": 2250,
+    "cena_max": 2250,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektro",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "data CAT  + trubka",
+    "mj": "",
+    "cena_prumer": 14500,
+    "cena_min": 14500,
+    "cena_max": 14500,
+    "pocet_vyskytu": 2,
+    "sekce": "Elektro",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "dopravy + zajištění mat + režie",
+    "mj": "",
+    "cena_prumer": 10000,
+    "cena_min": 8000,
+    "cena_max": 14000,
+    "pocet_vyskytu": 3,
+    "sekce": "Elektro",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "hlavní vypínač",
+    "mj": "",
+    "cena_prumer": 1540,
+    "cena_min": 1540,
+    "cena_max": 1540,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektro",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "jistič 1fáz",
+    "mj": "",
+    "cena_prumer": 550,
+    "cena_min": 550,
+    "cena_max": 550,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektro",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "koax + trubka",
+    "mj": "ks",
+    "cena_prumer": 2500,
+    "cena_min": 2500,
+    "cena_max": 2500,
+    "pocet_vyskytu": 2,
+    "sekce": "Elektro",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "ostatní materiál",
+    "mj": "ks",
+    "cena_prumer": 3000,
+    "cena_min": 1500,
+    "cena_max": 6000,
+    "pocet_vyskytu": 3,
+    "sekce": "Elektro",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "ostatní nespecifikované práce",
+    "mj": "ks",
+    "cena_prumer": 18000,
+    "cena_min": 18000,
+    "cena_max": 18000,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektro",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "parkovné pokuty, nebo dle skutečnosti",
+    "mj": "ks",
+    "cena_prumer": 14000,
+    "cena_min": 14000,
+    "cena_max": 14000,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektro",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "podlahové topení DEVI 4m/2 digitální termostat, čidlo, přívod",
+    "mj": "ks",
+    "cena_prumer": 24500,
+    "cena_min": 24500,
+    "cena_max": 24500,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektro",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "podlahové topení DEVI 8m/2 digitální termostat, čidlo, přívod",
+    "mj": "ks",
+    "cena_prumer": 28800,
+    "cena_min": 28800,
+    "cena_max": 28800,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektro",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "přípomoce reviznímu technikovi",
+    "mj": "",
+    "cena_prumer": 3000,
+    "cena_min": 3000,
+    "cena_max": 3000,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektro",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "rámečky",
+    "mj": "ks",
+    "cena_prumer": 12000,
+    "cena_min": 12000,
+    "cena_max": 12000,
+    "pocet_vyskytu": 2,
+    "sekce": "Elektro",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "silové kabely",
+    "mj": "",
+    "cena_prumer": 70200,
+    "cena_min": 70200,
+    "cena_max": 70200,
+    "pocet_vyskytu": 2,
+    "sekce": "Elektro",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "vypánač č.5 včetně zapojení",
+    "mj": "ks",
+    "cena_prumer": 1267,
+    "cena_min": 1050,
+    "cena_max": 1700,
+    "pocet_vyskytu": 3,
+    "sekce": "Elektro",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "vypínač č. 6+6 včetně zapojení",
+    "mj": "ks",
+    "cena_prumer": 2020,
+    "cena_min": 2020,
+    "cena_max": 2020,
+    "pocet_vyskytu": 2,
+    "sekce": "Elektro",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "vypínač č.1 včetně zapojení",
+    "mj": "ks",
+    "cena_prumer": 1150,
+    "cena_min": 1150,
+    "cena_max": 1150,
+    "pocet_vyskytu": 2,
+    "sekce": "Elektro",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "vypínač č.6 včetně zapojení",
+    "mj": "ks",
+    "cena_prumer": 1147,
+    "cena_min": 1100,
+    "cena_max": 1240,
+    "pocet_vyskytu": 3,
+    "sekce": "Elektro",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "vypínač č.7 včetně zapojení",
+    "mj": "ks",
+    "cena_prumer": 1437,
+    "cena_min": 1280,
+    "cena_max": 1750,
+    "pocet_vyskytu": 3,
+    "sekce": "Elektro",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "výchozí revize,",
+    "mj": "ks",
+    "cena_prumer": 7400,
+    "cena_min": 6000,
+    "cena_max": 10200,
+    "pocet_vyskytu": 3,
+    "sekce": "Elektro",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "zásuvka   včetně zapojení",
+    "mj": "ks",
+    "cena_prumer": 667,
+    "cena_min": 375,
+    "cena_max": 1250,
+    "pocet_vyskytu": 3,
+    "sekce": "Elektro",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Bododvky",
+    "mj": "ks",
+    "cena_prumer": 1100,
+    "cena_min": 1100,
+    "cena_max": 1100,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Demontáž a odstranění stávajícího elektra",
+    "mj": "soub.",
+    "cena_prumer": 5000,
+    "cena_min": 5000,
+    "cena_max": 5000,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Demontáž el rozvaděče",
+    "mj": "Soub.",
+    "cena_prumer": 300,
+    "cena_min": 300,
+    "cena_max": 300,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Demontáž elektro komponentů",
+    "mj": "ks",
+    "cena_prumer": 250,
+    "cena_min": 250,
+    "cena_max": 250,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Demontáž termostatu",
+    "mj": "ks",
+    "cena_prumer": 440,
+    "cena_min": 330,
+    "cena_max": 550,
+    "pocet_vyskytu": 2,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Ahoj",
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Demontáž zásuvek a vypínačů před čalouníkem",
+    "mj": "soub.",
+    "cena_prumer": 600,
+    "cena_min": 600,
+    "cena_max": 600,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Dodávka a natažení rozvodu elektro",
+    "mj": "Soub.",
+    "cena_prumer": 19050,
+    "cena_min": 19050,
+    "cena_max": 19050,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Dodávka a osazení krabiček elektro",
+    "mj": "ks",
+    "cena_prumer": 320,
+    "cena_min": 320,
+    "cena_max": 320,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Dodávka a osazení krabiček elektro ve zdivu",
+    "mj": "ks",
+    "cena_prumer": 275,
+    "cena_min": 275,
+    "cena_max": 275,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Dodávka a osazení krabiček elektro za truhlařinou",
+    "mj": "ks",
+    "cena_prumer": 130,
+    "cena_min": 130,
+    "cena_max": 130,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Dodávka a výměna zásuvky, vypínače + rámeček černá",
+    "mj": "Soub.",
+    "cena_prumer": 5450,
+    "cena_min": 5450,
+    "cena_max": 5450,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Dodávka pohledových vyp. Future",
+    "mj": "ks",
+    "cena_prumer": 350,
+    "cena_min": 350,
+    "cena_max": 350,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Dodávka vypínačů Rond",
+    "mj": "ks",
+    "cena_prumer": 1450,
+    "cena_min": 1450,
+    "cena_max": 1450,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Dodávka zásuvek Rond",
+    "mj": "ks",
+    "cena_prumer": 2100,
+    "cena_min": 2100,
+    "cena_max": 2100,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Montáž koncových prvků elektro future",
+    "mj": "ks",
+    "cena_prumer": 350,
+    "cena_min": 350,
+    "cena_max": 350,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Montáž koncových prvků elektro rond",
+    "mj": "ks",
+    "cena_prumer": 380,
+    "cena_min": 380,
+    "cena_max": 380,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Montáž stropních přisazených válečků - dlouhé",
+    "mj": "ks",
+    "cena_prumer": 1050,
+    "cena_min": 1050,
+    "cena_max": 1050,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Montáž stropních přisazených válečků - krátké",
+    "mj": "ks",
+    "cena_prumer": 900,
+    "cena_min": 900,
+    "cena_max": 900,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Montáž světel nástěnných",
+    "mj": "ks",
+    "cena_prumer": 800,
+    "cena_min": 800,
+    "cena_max": 800,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Montáž světel přisazených stropních",
+    "mj": "ks",
+    "cena_prumer": 1520,
+    "cena_min": 1520,
+    "cena_max": 1520,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Montáž světelných lišt",
+    "mj": "mb",
+    "cena_prumer": 1025,
+    "cena_min": 1025,
+    "cena_max": 1025,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Montáž světla na zrcadlo",
+    "mj": "ks",
+    "cena_prumer": 1275,
+    "cena_min": 1275,
+    "cena_max": 1275,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Montáž světla na čalounění",
+    "mj": "ks",
+    "cena_prumer": 2150,
+    "cena_min": 2150,
+    "cena_max": 2150,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Montáž světla přisazeného",
+    "mj": "soub.",
+    "cena_prumer": 1100,
+    "cena_min": 1100,
+    "cena_max": 1100,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Montáž světla svěšeného",
+    "mj": "soub.",
+    "cena_prumer": 1450,
+    "cena_min": 1450,
+    "cena_max": 1450,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Montáž světla svěšeného liniového kuchyně",
+    "mj": "ks",
+    "cena_prumer": 1050,
+    "cena_min": 1050,
+    "cena_max": 1050,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Montáž světla závěsného liniového",
+    "mj": "ks",
+    "cena_prumer": 3920,
+    "cena_min": 3920,
+    "cena_max": 3920,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Montáž termostat",
+    "mj": "ks",
+    "cena_prumer": 750,
+    "cena_min": 750,
+    "cena_max": 750,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Montáž trafa pro světelné lišty",
+    "mj": "ks",
+    "cena_prumer": 570,
+    "cena_min": 570,
+    "cena_max": 570,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Montáž zásuvek Rond do ostrůvku",
+    "mj": "ks",
+    "cena_prumer": 450,
+    "cena_min": 450,
+    "cena_max": 450,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Montáž zásuvek a vypínaču po čalounění",
+    "mj": "soub.",
+    "cena_prumer": 600,
+    "cena_min": 600,
+    "cena_max": 600,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Montáž zásuvek do truhlářského prvku",
+    "mj": "ks",
+    "cena_prumer": 350,
+    "cena_min": 350,
+    "cena_max": 350,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Natažení chrániček pro repro a tv",
+    "mj": "soub.",
+    "cena_prumer": 1700,
+    "cena_min": 1700,
+    "cena_max": 1700,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Přidání jističe a zapojení v rozvaděči",
+    "mj": "Soub.",
+    "cena_prumer": 1150,
+    "cena_min": 1150,
+    "cena_max": 1150,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Připojení kuchyně - varná deska, digestoř",
+    "mj": "Soub.",
+    "cena_prumer": 1700,
+    "cena_min": 1700,
+    "cena_max": 1700,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Připojení varné desky",
+    "mj": "ks",
+    "cena_prumer": 1250,
+    "cena_min": 1250,
+    "cena_max": 1250,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Revize elektro nového rozvodu",
+    "mj": "soub.",
+    "cena_prumer": 5000,
+    "cena_min": 5000,
+    "cena_max": 5000,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Rozvody pro kuchyni",
+    "mj": "soub.",
+    "cena_prumer": 8750,
+    "cena_min": 8750,
+    "cena_max": 8750,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Stavební přípomoce topení, elektro",
+    "mj": "soub.",
+    "cena_prumer": 32067,
+    "cena_min": 3200,
+    "cena_max": 55000,
+    "pocet_vyskytu": 3,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Vyzvednutí a přesun osvětlení od prodejce",
+    "mj": "Soub.",
+    "cena_prumer": 4800,
+    "cena_min": 4800,
+    "cena_max": 4800,
+    "pocet_vyskytu": 1,
+    "sekce": "Elektromontáže, topení",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Lešení lehké pomocné - drážkování na stropě",
+    "mj": "soub.",
+    "cena_prumer": 2400,
+    "cena_min": 2400,
+    "cena_max": 2400,
+    "pocet_vyskytu": 1,
+    "sekce": "Lešení a stavební výtahy",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Lešení lehké pomocné, výška podlahy do 1,2 m",
+    "mj": "soub.",
+    "cena_prumer": 4905,
+    "cena_min": 1200,
+    "cena_max": 8500,
+    "pocet_vyskytu": 4,
+    "sekce": "Lešení a stavební výtahy",
+    "projekty": [
+      "Na_Kralovce",
+      "OAKS",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Malba bílá Primalex Plus",
+    "mj": "m2",
+    "cena_prumer": 118,
+    "cena_min": 110,
+    "cena_max": 143,
+    "pocet_vyskytu": 4,
+    "sekce": "Malby + nátěry",
+    "projekty": [
+      "Na_Kralovce",
+      "OAKS",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Malba bílá Primalex plus",
+    "mj": "m2",
+    "cena_prumer": 155,
+    "cena_min": 155,
+    "cena_max": 155,
+    "pocet_vyskytu": 1,
+    "sekce": "Malby + nátěry",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Malba stropů klenutých - penetrace Mapei",
+    "mj": "m2",
+    "cena_prumer": 375,
+    "cena_min": 375,
+    "cena_max": 375,
+    "pocet_vyskytu": 1,
+    "sekce": "Malby + nátěry",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Malba stěn a stropů Dulux Vinyl mat barva  2x",
+    "mj": "m2",
+    "cena_prumer": 147,
+    "cena_min": 147,
+    "cena_max": 147,
+    "pocet_vyskytu": 1,
+    "sekce": "Malby + nátěry",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Oprava výmalby po montážích - truhláři, elektro, podlaháři",
+    "mj": "soub.",
+    "cena_prumer": 9820,
+    "cena_min": 9820,
+    "cena_max": 9820,
+    "pocet_vyskytu": 1,
+    "sekce": "Malby + nátěry",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Oprava černé voděodolné výmalby - po truhláři",
+    "mj": "soub.",
+    "cena_prumer": 3820,
+    "cena_min": 3820,
+    "cena_max": 3820,
+    "pocet_vyskytu": 1,
+    "sekce": "Malby + nátěry",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Opravy povrchů - vrypy",
+    "mj": "soub.",
+    "cena_prumer": 5000,
+    "cena_min": 5000,
+    "cena_max": 5000,
+    "pocet_vyskytu": 1,
+    "sekce": "Malby + nátěry",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Opravy spojené s původním provedením vývodů elektro po osvětlení",
+    "mj": "soub.",
+    "cena_prumer": 2150,
+    "cena_min": 2150,
+    "cena_max": 2150,
+    "pocet_vyskytu": 1,
+    "sekce": "Malby + nátěry",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Penetrace nových omítek",
+    "mj": "m2",
+    "cena_prumer": 42,
+    "cena_min": 42,
+    "cena_max": 42,
+    "pocet_vyskytu": 1,
+    "sekce": "Malby + nátěry",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Penetrace pod nátěry",
+    "mj": "m2",
+    "cena_prumer": 43,
+    "cena_min": 42,
+    "cena_max": 46,
+    "pocet_vyskytu": 4,
+    "sekce": "Malby + nátěry",
+    "projekty": [
+      "Na_Kralovce",
+      "OAKS",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Příplatek k malému množství barvy Dulux",
+    "mj": "soub.",
+    "cena_prumer": 500,
+    "cena_min": 500,
+    "cena_max": 500,
+    "pocet_vyskytu": 1,
+    "sekce": "Malby + nátěry",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Příplatek za dvojbarevné provedení",
+    "mj": "soub.",
+    "cena_prumer": 3180,
+    "cena_min": 3180,
+    "cena_max": 3180,
+    "pocet_vyskytu": 1,
+    "sekce": "Malby + nátěry",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Příplatek za malé plochy",
+    "mj": "soub.",
+    "cena_prumer": 3850,
+    "cena_min": 3850,
+    "cena_max": 3850,
+    "pocet_vyskytu": 1,
+    "sekce": "Malby + nátěry",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Zakrývání oken a ochrana ostatních konstrukcí",
+    "mj": "soub.",
+    "cena_prumer": 138,
+    "cena_min": 100,
+    "cena_max": 175,
+    "pocet_vyskytu": 2,
+    "sekce": "Malby + nátěry",
+    "projekty": [
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Zakrývání před povrchovou úpravou stěn",
+    "mj": "soub.",
+    "cena_prumer": 3300,
+    "cena_min": 3300,
+    "cena_max": 3300,
+    "pocet_vyskytu": 1,
+    "sekce": "Malby + nátěry",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Demontáž a opětovná montáž VZT výústku",
+    "mj": "ks",
+    "cena_prumer": 682,
+    "cena_min": 682,
+    "cena_max": 682,
+    "pocet_vyskytu": 1,
+    "sekce": "Montáže vzduchotechnických zařízení",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Přípomoc - řešení návazností klima a truhlařina",
+    "mj": "hod",
+    "cena_prumer": 1210,
+    "cena_min": 1210,
+    "cena_max": 1210,
+    "pocet_vyskytu": 1,
+    "sekce": "Montáže vzduchotechnických zařízení",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Přípomoce s realizací VZT a klima",
+    "mj": "soub.",
+    "cena_prumer": 11300,
+    "cena_min": 11300,
+    "cena_max": 11300,
+    "pocet_vyskytu": 1,
+    "sekce": "Montáže vzduchotechnických zařízení",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Příprava napojení odkapu kondenzátu vč. Dodávky a instalace sifonu",
+    "mj": "ks",
+    "cena_prumer": 8300,
+    "cena_min": 8300,
+    "cena_max": 8300,
+    "pocet_vyskytu": 1,
+    "sekce": "Montáže vzduchotechnických zařízení",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Kamenické rohy",
+    "mj": "mb",
+    "cena_prumer": 650,
+    "cena_min": 650,
+    "cena_max": 650,
+    "pocet_vyskytu": 3,
+    "sekce": "Obklady keramické",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Montáž keramických obkladů na flex lepidlo",
+    "mj": "m2",
+    "cena_prumer": 2050,
+    "cena_min": 1650,
+    "cena_max": 2250,
+    "pocet_vyskytu": 3,
+    "sekce": "Obklady keramické",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Montáž těsnící pásky pásky vnitř. rohů a koutů",
+    "mj": "mb",
+    "cena_prumer": 157,
+    "cena_min": 150,
+    "cena_max": 170,
+    "pocet_vyskytu": 3,
+    "sekce": "Obklady keramické",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Otvory do obkladu - výřez",
+    "mj": "ks",
+    "cena_prumer": 350,
+    "cena_min": 350,
+    "cena_max": 350,
+    "pocet_vyskytu": 3,
+    "sekce": "Obklady keramické",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Příplatek za niku",
+    "mj": "ks",
+    "cena_prumer": 4500,
+    "cena_min": 4500,
+    "cena_max": 4500,
+    "pocet_vyskytu": 3,
+    "sekce": "Obklady keramické",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Rovné řezy - vodní paprsek",
+    "mj": "mb",
+    "cena_prumer": 200,
+    "cena_min": 200,
+    "cena_max": 200,
+    "pocet_vyskytu": 3,
+    "sekce": "Obklady keramické",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Vyzdění sprchové vaničky",
+    "mj": "ks",
+    "cena_prumer": 6400,
+    "cena_min": 5600,
+    "cena_max": 8000,
+    "pocet_vyskytu": 3,
+    "sekce": "Obklady keramické",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "flexibilní lepidlo",
+    "mj": "kg",
+    "cena_prumer": 30,
+    "cena_min": 30,
+    "cena_max": 30,
+    "pocet_vyskytu": 6,
+    "sekce": "Obklady keramické",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "hydroizolace nátěrová jednosložková",
+    "mj": "m2",
+    "cena_prumer": 397,
+    "cena_min": 365,
+    "cena_max": 460,
+    "pocet_vyskytu": 3,
+    "sekce": "Obklady keramické",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "jemná spárovací hmota",
+    "mj": "kg",
+    "cena_prumer": 120,
+    "cena_min": 120,
+    "cena_max": 120,
+    "pocet_vyskytu": 6,
+    "sekce": "Obklady keramické",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "těsnící páska",
+    "mj": "mb",
+    "cena_prumer": 193,
+    "cena_min": 185,
+    "cena_max": 210,
+    "pocet_vyskytu": 3,
+    "sekce": "Obklady keramické",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Dělení a odvoz přebytečného obkladu",
+    "mj": "soub.",
+    "cena_prumer": 6700,
+    "cena_min": 6700,
+    "cena_max": 6700,
+    "pocet_vyskytu": 1,
+    "sekce": "Obklady, dlažby a podlahové konstrukce",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Obložení skříňky pod umyvadlem",
+    "mj": "soub.",
+    "cena_prumer": 6700,
+    "cena_min": 6700,
+    "cena_max": 6700,
+    "pocet_vyskytu": 1,
+    "sekce": "Obklady, dlažby a podlahové konstrukce",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Příprava velkoformátové dlažby na vodním paprsku - obklad skříňky",
+    "mj": "soub.",
+    "cena_prumer": 5300,
+    "cena_min": 5300,
+    "cena_max": 5300,
+    "pocet_vyskytu": 1,
+    "sekce": "Obklady, dlažby a podlahové konstrukce",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Aktivace IPE prvků",
+    "mj": "soub.",
+    "cena_prumer": 5000,
+    "cena_min": 5000,
+    "cena_max": 5000,
+    "pocet_vyskytu": 1,
+    "sekce": "Statika",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Dodávka a montáž schodiště",
+    "mj": "soub.",
+    "cena_prumer": 270000,
+    "cena_min": 270000,
+    "cena_max": 270000,
+    "pocet_vyskytu": 1,
+    "sekce": "Statika",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Dozdění prostoru nad příčkou z plných cihel",
+    "mj": "m2",
+    "cena_prumer": 4150,
+    "cena_min": 4150,
+    "cena_max": 4150,
+    "pocet_vyskytu": 1,
+    "sekce": "Statika",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Realizace betonového lože pro usazení IPE prvků",
+    "mj": "ks",
+    "cena_prumer": 1250,
+    "cena_min": 1250,
+    "cena_max": 1250,
+    "pocet_vyskytu": 1,
+    "sekce": "Statika",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Realizace světlovodu",
+    "mj": "soub.",
+    "cena_prumer": 80000,
+    "cena_min": 80000,
+    "cena_max": 80000,
+    "pocet_vyskytu": 1,
+    "sekce": "Statika",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Vybourání čísti příčky pod statikou",
+    "mj": "m2",
+    "cena_prumer": 480,
+    "cena_min": 480,
+    "cena_max": 480,
+    "pocet_vyskytu": 1,
+    "sekce": "Statika",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Vysekání drážek pro uložení IPE 140",
+    "mj": "mb",
+    "cena_prumer": 2400,
+    "cena_min": 2400,
+    "cena_max": 2400,
+    "pocet_vyskytu": 1,
+    "sekce": "Statika",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "dodávka a osazení IPE prvků",
+    "mj": "ks",
+    "cena_prumer": 4000,
+    "cena_min": 4000,
+    "cena_max": 4000,
+    "pocet_vyskytu": 1,
+    "sekce": "Statika",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Doprava",
+    "mj": "soub.",
+    "cena_prumer": 12250,
+    "cena_min": 12250,
+    "cena_max": 12250,
+    "pocet_vyskytu": 1,
+    "sekce": "Staveništní přesun hmot",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Likvidace odpadu na skládku",
+    "mj": "kont.",
+    "cena_prumer": 4600,
+    "cena_min": 4200,
+    "cena_max": 5200,
+    "pocet_vyskytu": 5,
+    "sekce": "Staveništní přesun hmot",
+    "projekty": [
+      "Na_Kralovce",
+      "Ocelarska",
+      "Vinohradska",
+      "HAV",
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Likvidace odpadu na skládku",
+    "mj": "soub.",
+    "cena_prumer": 1750,
+    "cena_min": 1750,
+    "cena_max": 1750,
+    "pocet_vyskytu": 1,
+    "sekce": "Staveništní přesun hmot",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Likvidace odpadu na skládku - postupný odvoz",
+    "mj": "kont.",
+    "cena_prumer": 4620,
+    "cena_min": 4620,
+    "cena_max": 4620,
+    "pocet_vyskytu": 1,
+    "sekce": "Staveništní přesun hmot",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Likvidace směsného odpadu na skládku",
+    "mj": "kont.",
+    "cena_prumer": 8440,
+    "cena_min": 4800,
+    "cena_max": 9600,
+    "pocet_vyskytu": 5,
+    "sekce": "Staveništní přesun hmot",
+    "projekty": [
+      "Na_Kralovce",
+      "Ocelarska",
+      "Vinohradska",
+      "HAV",
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Likvidace směsného odpadu na skládku postupný odvoz",
+    "mj": "soub.",
+    "cena_prumer": 3750,
+    "cena_min": 3750,
+    "cena_max": 3750,
+    "pocet_vyskytu": 1,
+    "sekce": "Staveništní přesun hmot",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Ochrana komunikačních tras + hrubý úklid",
+    "mj": "soub.",
+    "cena_prumer": 1600,
+    "cena_min": 1600,
+    "cena_max": 1600,
+    "pocet_vyskytu": 1,
+    "sekce": "Staveništní přesun hmot",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Ochrana komunikačních tras + úklid",
+    "mj": "soub.",
+    "cena_prumer": 5870,
+    "cena_min": 1700,
+    "cena_max": 13500,
+    "pocet_vyskytu": 6,
+    "sekce": "Staveništní přesun hmot",
+    "projekty": [
+      "Na_Kralovce",
+      "Ocelarska",
+      "Vinohradska",
+      "Viktorka_III",
+      "HAV",
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Přesun hmot",
+    "mj": "soub.",
+    "cena_prumer": 3750,
+    "cena_min": 3750,
+    "cena_max": 3750,
+    "pocet_vyskytu": 1,
+    "sekce": "Staveništní přesun hmot",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Přesun hmot pro budovy zděné",
+    "mj": "soub.",
+    "cena_prumer": 5425,
+    "cena_min": 1500,
+    "cena_max": 9350,
+    "pocet_vyskytu": 2,
+    "sekce": "Staveništní přesun hmot",
+    "projekty": [
+      "Viktorka_III",
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Přesun hmot pro budovy zděné výšky",
+    "mj": "soub.",
+    "cena_prumer": 48333,
+    "cena_min": 15000,
+    "cena_max": 85000,
+    "pocet_vyskytu": 3,
+    "sekce": "Staveništní přesun hmot",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Vynošení nabouraných hmot",
+    "mj": "soub.",
+    "cena_prumer": 4630,
+    "cena_min": 3100,
+    "cena_max": 6160,
+    "pocet_vyskytu": 2,
+    "sekce": "Staveništní přesun hmot",
+    "projekty": [
+      "Ahoj",
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "vynošení nabouraných hmot",
+    "mj": "soub.",
+    "cena_prumer": 34400,
+    "cena_min": 15000,
+    "cena_max": 48000,
+    "pocet_vyskytu": 5,
+    "sekce": "Staveništní přesun hmot",
+    "projekty": [
+      "Na_Kralovce",
+      "Ocelarska",
+      "Vinohradska",
+      "HAV",
+      "Bourani_Hanspaulka"
+    ]
+  },
+  {
+    "nazev": "Dodávka a montáž SDK dvířek do SDK",
+    "mj": "ks",
+    "cena_prumer": 2650,
+    "cena_min": 2650,
+    "cena_max": 2650,
+    "pocet_vyskytu": 2,
+    "sekce": "Stěny a příčky",
+    "projekty": [
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Dodávka a montáž SDK dvířek do cihelní stěny",
+    "mj": "ks",
+    "cena_prumer": 3600,
+    "cena_min": 3600,
+    "cena_max": 3600,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny a příčky",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Dozdění otvoru dveří na požadovaný rozměr",
+    "mj": "ks",
+    "cena_prumer": 5000,
+    "cena_min": 5000,
+    "cena_max": 5000,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny a příčky",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Dozdění otvoru obývací pokoj z plných cihel - pro osazení překladu",
+    "mj": "soub.",
+    "cena_prumer": 8500,
+    "cena_min": 8500,
+    "cena_max": 8500,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny a příčky",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Dvířka pro plynoměr",
+    "mj": "ks",
+    "cena_prumer": 5000,
+    "cena_min": 5000,
+    "cena_max": 5000,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny a příčky",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Obezdění vany",
+    "mj": "soub.",
+    "cena_prumer": 11000,
+    "cena_min": 11000,
+    "cena_max": 11000,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny a příčky",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Opláštění Geberit podomítkového dílu sádrokarton",
+    "mj": "soub.",
+    "cena_prumer": 3570,
+    "cena_min": 3570,
+    "cena_max": 3570,
+    "pocet_vyskytu": 3,
+    "sekce": "Stěny a příčky",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "PD 02 -",
+    "mj": "m2",
+    "cena_prumer": 1220,
+    "cena_min": 1220,
+    "cena_max": 1220,
+    "pocet_vyskytu": 2,
+    "sekce": "Stěny a příčky",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "PD 03 -",
+    "mj": "m2",
+    "cena_prumer": 1140,
+    "cena_min": 1140,
+    "cena_max": 1140,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny a příčky",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Předstěna Ytong u plynoměru",
+    "mj": "m2",
+    "cena_prumer": 1550,
+    "cena_min": 1550,
+    "cena_max": 1550,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny a příčky",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Příplatek za dodávku a montáž překladu",
+    "mj": "ks",
+    "cena_prumer": 600,
+    "cena_min": 600,
+    "cena_max": 600,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny a příčky",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Příplatek za plochy do 10 m2",
+    "mj": "soub.",
+    "cena_prumer": 4567,
+    "cena_min": 3700,
+    "cena_max": 5000,
+    "pocet_vyskytu": 3,
+    "sekce": "Stěny a příčky",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Realizace niky pro stínění",
+    "mj": "mb",
+    "cena_prumer": 1250,
+    "cena_min": 1250,
+    "cena_max": 1250,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny a příčky",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Realizace obložení ocelového průvlaku",
+    "mj": "mb",
+    "cena_prumer": 2200,
+    "cena_min": 2200,
+    "cena_max": 2200,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny a příčky",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "SDK  předstěny",
+    "mj": "m2",
+    "cena_prumer": 1070,
+    "cena_min": 1070,
+    "cena_max": 1070,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny a příčky",
+    "projekty": [
+      "Na_Kralovce"
+    ]
+  },
+  {
+    "nazev": "SDK hrana",
+    "mj": "mb",
+    "cena_prumer": 700,
+    "cena_min": 700,
+    "cena_max": 700,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny a příčky",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "SDK podhled",
+    "mj": "m2",
+    "cena_prumer": 1220,
+    "cena_min": 1220,
+    "cena_max": 1220,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny a příčky",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "SDK podhled impregnovaný",
+    "mj": "m2",
+    "cena_prumer": 1320,
+    "cena_min": 1320,
+    "cena_max": 1320,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny a příčky",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "SDK předstěna u kuchyně",
+    "mj": "m2",
+    "cena_prumer": 1520,
+    "cena_min": 1520,
+    "cena_max": 1520,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny a příčky",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "SDK příčka u kuchyně",
+    "mj": "m2",
+    "cena_prumer": 1520,
+    "cena_min": 1520,
+    "cena_max": 1520,
+    "pocet_vyskytu": 2,
+    "sekce": "Stěny a příčky",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Vyzdívka Ytong tl. 100 mm",
+    "mj": "m2",
+    "cena_prumer": 1550,
+    "cena_min": 1550,
+    "cena_max": 1550,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny a příčky",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Vyzdívky Ytong",
+    "mj": "m2",
+    "cena_prumer": 1675,
+    "cena_min": 1675,
+    "cena_max": 1675,
+    "pocet_vyskytu": 2,
+    "sekce": "Stěny a příčky",
+    "projekty": [
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Výdřevy",
+    "mj": "soub.",
+    "cena_prumer": 8900,
+    "cena_min": 3700,
+    "cena_max": 19300,
+    "pocet_vyskytu": 3,
+    "sekce": "Stěny a příčky",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Zazdění okének do světlíku",
+    "mj": "ks",
+    "cena_prumer": 3115,
+    "cena_min": 2080,
+    "cena_max": 4150,
+    "pocet_vyskytu": 2,
+    "sekce": "Stěny a příčky",
+    "projekty": [
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Začištění a zapravení otvorů pro úpravách rozvodů elektro",
+    "mj": "soub.",
+    "cena_prumer": 7250,
+    "cena_min": 7250,
+    "cena_max": 7250,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny a příčky",
+    "projekty": [
+      "Na_Kralovce"
+    ]
+  },
+  {
+    "nazev": "Dodávka a montáž nových záklopů",
+    "mj": "m2",
+    "cena_prumer": 1485,
+    "cena_min": 1485,
+    "cena_max": 1485,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny, stropy a příčky",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Realizace sond",
+    "mj": "soub.",
+    "cena_prumer": 4235,
+    "cena_min": 4235,
+    "cena_max": 4235,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny, stropy a příčky",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Vykroužení otvorů ve stropech pro úpravu rozvodů elektro",
+    "mj": "ks",
+    "cena_prumer": 390,
+    "cena_min": 390,
+    "cena_max": 390,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny, stropy a příčky",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Vyřezání drážek do stropů pro úpravu rozvodů ve stropech",
+    "mj": "mb",
+    "cena_prumer": 737,
+    "cena_min": 737,
+    "cena_max": 737,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny, stropy a příčky",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Zapravení a doplnění drážek ve stropě",
+    "mj": "mb",
+    "cena_prumer": 1320,
+    "cena_min": 1320,
+    "cena_max": 1320,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny, stropy a příčky",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Zapravení otvorů do stropu - kruhové",
+    "mj": "ks",
+    "cena_prumer": 583,
+    "cena_min": 583,
+    "cena_max": 583,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny, stropy a příčky",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Zapravení otvorů po drážkách stínění",
+    "mj": "mb",
+    "cena_prumer": 1320,
+    "cena_min": 1320,
+    "cena_max": 1320,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny, stropy a příčky",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Zapravení otvorů po sondách",
+    "mj": "soub.",
+    "cena_prumer": 7700,
+    "cena_min": 7700,
+    "cena_max": 7700,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny, stropy a příčky",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "demontáž záklopů",
+    "mj": "m2",
+    "cena_prumer": 440,
+    "cena_min": 440,
+    "cena_max": 440,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny, stropy a příčky",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Úprava tovoru pro vloženou kolejnici stínění - ložnice",
+    "mj": "mb",
+    "cena_prumer": 737,
+    "cena_min": 737,
+    "cena_max": 737,
+    "pocet_vyskytu": 1,
+    "sekce": "Stěny, stropy a příčky",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Armatury P.M.H.",
+    "mj": "ks",
+    "cena_prumer": 5400,
+    "cena_min": 5400,
+    "cena_max": 5400,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "CU potrubí Dn 15-22 vč.tvarovek",
+    "mj": "m",
+    "cena_prumer": 260,
+    "cena_min": 260,
+    "cena_max": 260,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Demontáže, montáže a zprovoznění systému",
+    "mj": "kpl",
+    "cena_prumer": 150000,
+    "cena_min": 150000,
+    "cena_max": 150000,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Dopravní náklady a přesun hmot",
+    "mj": "kpl",
+    "cena_prumer": 4050,
+    "cena_min": 2100,
+    "cena_max": 6000,
+    "pocet_vyskytu": 2,
+    "sekce": "Topení",
+    "projekty": [
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Hlavice termostatická",
+    "mj": "ks",
+    "cena_prumer": 350,
+    "cena_min": 350,
+    "cena_max": 350,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Izolace potrubí Dn 15-22/10",
+    "mj": "m",
+    "cena_prumer": 20,
+    "cena_min": 20,
+    "cena_max": 20,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Konzole a upevnění",
+    "mj": "kpl",
+    "cena_prumer": 6300,
+    "cena_min": 6300,
+    "cena_max": 6300,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Materiál pro úpravu podlahového vytápění",
+    "mj": "kpl",
+    "cena_prumer": 24000,
+    "cena_min": 24000,
+    "cena_max": 24000,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Montáž plynovodu a ÚT",
+    "mj": "kpl",
+    "cena_prumer": 38000,
+    "cena_min": 38000,
+    "cena_max": 38000,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Náplň topného žebříku",
+    "mj": "kpl",
+    "cena_prumer": 510,
+    "cena_min": 510,
+    "cena_max": 510,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Odkap.nádobka kondenzátu",
+    "mj": "ks",
+    "cena_prumer": 370,
+    "cena_min": 370,
+    "cena_max": 370,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Odkouření",
+    "mj": "kpl",
+    "cena_prumer": 14200,
+    "cena_min": 14200,
+    "cena_max": 14200,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Ostatní montážní a spotřební materiál",
+    "mj": "kpl",
+    "cena_prumer": 8500,
+    "cena_min": 8500,
+    "cena_max": 8500,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Ostatní montážní,spojovací a těsnící materiál",
+    "mj": "kpl",
+    "cena_prumer": 880,
+    "cena_min": 880,
+    "cena_max": 880,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Ostatní mosaz.závitové tvarovky Dn 15-32",
+    "mj": "kpl",
+    "cena_prumer": 1000,
+    "cena_min": 1000,
+    "cena_max": 1000,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Pl.kotel Vaillant vč. montáže",
+    "mj": "ks",
+    "cena_prumer": 65000,
+    "cena_min": 65000,
+    "cena_max": 65000,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Potrubí pro přeusunutí kotle",
+    "mj": "kpl",
+    "cena_prumer": 19000,
+    "cena_min": 19000,
+    "cena_max": 19000,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Potrubí pro úpravu rozvodů a přesunutí radiátorů",
+    "mj": "kpl",
+    "cena_prumer": 13000,
+    "cena_min": 13000,
+    "cena_max": 13000,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Prostorová regulace Vaillant CM 350 F",
+    "mj": "ks",
+    "cena_prumer": 4630,
+    "cena_min": 4630,
+    "cena_max": 4630,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Připojení Completto středové s intergr.ventilem",
+    "mj": "ks",
+    "cena_prumer": 1250,
+    "cena_min": 1250,
+    "cena_max": 1250,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Připojovací armatura Heimeier Vekolux roh.nikl.",
+    "mj": "ks",
+    "cena_prumer": 550,
+    "cena_min": 550,
+    "cena_max": 550,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Připojovací armatury Zehnder",
+    "mj": "kpl",
+    "cena_prumer": 18900,
+    "cena_min": 18900,
+    "cena_max": 18900,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Příslušenství kotle",
+    "mj": "kpl",
+    "cena_prumer": 12500,
+    "cena_min": 12500,
+    "cena_max": 12500,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Radiátory P.M.H.",
+    "mj": "ks",
+    "cena_prumer": 21600,
+    "cena_min": 21600,
+    "cena_max": 21600,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Radiátory Radik Plan",
+    "mj": "kpl",
+    "cena_prumer": 64000,
+    "cena_min": 64000,
+    "cena_max": 64000,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Radiátory Zehnder Charleston",
+    "mj": "kpl",
+    "cena_prumer": 126000,
+    "cena_min": 126000,
+    "cena_max": 126000,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Revize",
+    "mj": "kpl",
+    "cena_prumer": 6000,
+    "cena_min": 6000,
+    "cena_max": 6000,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Rosendal R 2B 266x1500",
+    "mj": "ks",
+    "cena_prumer": 9200,
+    "cena_min": 9200,
+    "cena_max": 9200,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Sestava kotle Vaillant + zásobník 120 L",
+    "mj": "ks",
+    "cena_prumer": 96000,
+    "cena_min": 96000,
+    "cena_max": 96000,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Svěrné šroubení Heimeier 15x3/4",
+    "mj": "ks",
+    "cena_prumer": 100,
+    "cena_min": 100,
+    "cena_max": 100,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Term.hlavice Zehnder",
+    "mj": "kpl",
+    "cena_prumer": 12400,
+    "cena_min": 12400,
+    "cena_max": 12400,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Topné těleso",
+    "mj": "ks",
+    "cena_prumer": 12500,
+    "cena_min": 12500,
+    "cena_max": 12500,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Tpná tyč PMH HT 1/200 B",
+    "mj": "ks",
+    "cena_prumer": 4500,
+    "cena_min": 4500,
+    "cena_max": 4500,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Uvedení a zprovoznění kotle servisním technikem",
+    "mj": "kpl",
+    "cena_prumer": 2300,
+    "cena_min": 2300,
+    "cena_max": 2300,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Uzavírací a připojovací armatury kotle",
+    "mj": "kpl",
+    "cena_prumer": 1670,
+    "cena_min": 1670,
+    "cena_max": 1670,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Základní regulace",
+    "mj": "kpl",
+    "cena_prumer": 5300,
+    "cena_min": 5300,
+    "cena_max": 5300,
+    "pocet_vyskytu": 1,
+    "sekce": "Topení",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Dopojení do stávajících stoupaček",
+    "mj": "soub.",
+    "cena_prumer": 8100,
+    "cena_min": 8100,
+    "cena_max": 8100,
+    "pocet_vyskytu": 3,
+    "sekce": "Vnitřní kanalizace",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Hrubé rozv. Odpadů kuchyň - cena výpustek",
+    "mj": "ks",
+    "cena_prumer": 965,
+    "cena_min": 965,
+    "cena_max": 965,
+    "pocet_vyskytu": 1,
+    "sekce": "Vnitřní kanalizace",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Hrubé rozv. odpadů, koupelna, WC, kuchyň - cena výpustek",
+    "mj": "ks",
+    "cena_prumer": 1135,
+    "cena_min": 1107,
+    "cena_max": 1218,
+    "pocet_vyskytu": 4,
+    "sekce": "Vnitřní kanalizace",
+    "projekty": [
+      "Na_Kralovce",
+      "OAKS",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Prostupy pro kanalizaci",
+    "mj": "ks",
+    "cena_prumer": 1200,
+    "cena_min": 1200,
+    "cena_max": 1200,
+    "pocet_vyskytu": 2,
+    "sekce": "Vnitřní kanalizace",
+    "projekty": [
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Rozvody kanalizace - větev",
+    "mj": "mb",
+    "cena_prumer": 984,
+    "cena_min": 960,
+    "cena_max": 1056,
+    "pocet_vyskytu": 4,
+    "sekce": "Vnitřní kanalizace",
+    "projekty": [
+      "Na_Kralovce",
+      "OAKS",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Rozvody kanalizace - větev vč. kotvení",
+    "mj": "mb",
+    "cena_prumer": 970,
+    "cena_min": 970,
+    "cena_max": 970,
+    "pocet_vyskytu": 1,
+    "sekce": "Vnitřní kanalizace",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Sekání drářek pro kanalizaci",
+    "mj": "mb",
+    "cena_prumer": 380,
+    "cena_min": 380,
+    "cena_max": 380,
+    "pocet_vyskytu": 3,
+    "sekce": "Vnitřní kanalizace",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Hrubé rozv. ZTI kuchyně - cena výústek",
+    "mj": "ks",
+    "cena_prumer": 1075,
+    "cena_min": 1075,
+    "cena_max": 1075,
+    "pocet_vyskytu": 1,
+    "sekce": "Vnitřní vodovod",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Hrubé rozv. ZTI, koupelna, WC, kuchyně - cena výústek",
+    "mj": "ks",
+    "cena_prumer": 999,
+    "cena_min": 975,
+    "cena_max": 1072,
+    "pocet_vyskytu": 4,
+    "sekce": "Vnitřní vodovod",
+    "projekty": [
+      "Na_Kralovce",
+      "OAKS",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Kompletace zdravotechniky",
+    "mj": "soub.",
+    "cena_prumer": 8067,
+    "cena_min": 6200,
+    "cena_max": 9000,
+    "pocet_vyskytu": 3,
+    "sekce": "Vnitřní vodovod",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Montáž a připojení podomítkového dílu Geberit",
+    "mj": "soub.",
+    "cena_prumer": 3650,
+    "cena_min": 3650,
+    "cena_max": 3650,
+    "pocet_vyskytu": 3,
+    "sekce": "Vnitřní vodovod",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Přemístění vodoměrů vč. dopojení montáže a kohoutů",
+    "mj": "ks",
+    "cena_prumer": 6000,
+    "cena_min": 6000,
+    "cena_max": 6000,
+    "pocet_vyskytu": 2,
+    "sekce": "Vnitřní vodovod",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Připojení kuchyně - dřez, myčka, baterie",
+    "mj": "soub.",
+    "cena_prumer": 2300,
+    "cena_min": 2300,
+    "cena_max": 2300,
+    "pocet_vyskytu": 1,
+    "sekce": "Vnitřní vodovod",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Rozvod vody",
+    "mj": "mb",
+    "cena_prumer": 470,
+    "cena_min": 470,
+    "cena_max": 470,
+    "pocet_vyskytu": 1,
+    "sekce": "Vnitřní vodovod",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Rozvod vody do  kuchyně",
+    "mj": "soub.",
+    "cena_prumer": 5225,
+    "cena_min": 5225,
+    "cena_max": 5225,
+    "pocet_vyskytu": 1,
+    "sekce": "Vnitřní vodovod",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Rozvody vody - větev",
+    "mj": "mb",
+    "cena_prumer": 615,
+    "cena_min": 615,
+    "cena_max": 615,
+    "pocet_vyskytu": 1,
+    "sekce": "Vnitřní vodovod",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Sekání drážek pro instalaci vody",
+    "mj": "mb",
+    "cena_prumer": 330,
+    "cena_min": 330,
+    "cena_max": 330,
+    "pocet_vyskytu": 3,
+    "sekce": "Vnitřní vodovod",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Zkouška tlaku potrubí Hostalen do DN 50",
+    "mj": "soub.",
+    "cena_prumer": 1277,
+    "cena_min": 650,
+    "cena_max": 2000,
+    "pocet_vyskytu": 5,
+    "sekce": "Vnitřní vodovod",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV",
+      "Ahoj",
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Přeprava deskového materiálu na stavbu a ze stavby",
+    "mj": "soub.",
+    "cena_prumer": 5280,
+    "cena_min": 5280,
+    "cena_max": 5280,
+    "pocet_vyskytu": 1,
+    "sekce": "Zakrývání",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Zakrytí dveří otočných",
+    "mj": "ks",
+    "cena_prumer": 352,
+    "cena_min": 352,
+    "cena_max": 352,
+    "pocet_vyskytu": 1,
+    "sekce": "Zakrývání",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Zakrytí dveří vstupních",
+    "mj": "ks",
+    "cena_prumer": 1100,
+    "cena_min": 1100,
+    "cena_max": 1100,
+    "pocet_vyskytu": 1,
+    "sekce": "Zakrývání",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Zakrytí oken",
+    "mj": "ks",
+    "cena_prumer": 473,
+    "cena_min": 473,
+    "cena_max": 473,
+    "pocet_vyskytu": 1,
+    "sekce": "Zakrývání",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Zakrytí podlah mimo dlažeb - podlepený filc, sololit",
+    "mj": "m2",
+    "cena_prumer": 352,
+    "cena_min": 352,
+    "cena_max": 352,
+    "pocet_vyskytu": 1,
+    "sekce": "Zakrývání",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Zalepení soklových lišt",
+    "mj": "mb",
+    "cena_prumer": 66,
+    "cena_min": 66,
+    "cena_max": 66,
+    "pocet_vyskytu": 1,
+    "sekce": "Zakrývání",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Zakrytí podlah pokojů - deskový materiál",
+    "mj": "m2",
+    "cena_prumer": 320,
+    "cena_min": 320,
+    "cena_max": 320,
+    "pocet_vyskytu": 1,
+    "sekce": "Zakrývání konstrukcí",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Zakrytí povlakové a další drobné zakrývání",
+    "mj": "soub.",
+    "cena_prumer": 1500,
+    "cena_min": 1500,
+    "cena_max": 1500,
+    "pocet_vyskytu": 1,
+    "sekce": "Zakrývání konstrukcí",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Baterie stojánková",
+    "mj": "ks",
+    "cena_prumer": 715,
+    "cena_min": 715,
+    "cena_max": 715,
+    "pocet_vyskytu": 1,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Baterie stojánková WC",
+    "mj": "ks",
+    "cena_prumer": 650,
+    "cena_min": 650,
+    "cena_max": 650,
+    "pocet_vyskytu": 2,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Clic - clac",
+    "mj": "ks",
+    "cena_prumer": 123,
+    "cena_min": 120,
+    "cena_max": 132,
+    "pocet_vyskytu": 4,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Na_Kralovce",
+      "OAKS",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Dopojení dřezové baterie",
+    "mj": "ks",
+    "cena_prumer": 800,
+    "cena_min": 800,
+    "cena_max": 800,
+    "pocet_vyskytu": 1,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Dopojení kuchyně",
+    "mj": "ks",
+    "cena_prumer": 3575,
+    "cena_min": 3575,
+    "cena_max": 3575,
+    "pocet_vyskytu": 1,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Dopojení kuchyňského dřezu",
+    "mj": "ks",
+    "cena_prumer": 900,
+    "cena_min": 900,
+    "cena_max": 900,
+    "pocet_vyskytu": 1,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Dopojení myčky",
+    "mj": "ks",
+    "cena_prumer": 520,
+    "cena_min": 520,
+    "cena_max": 520,
+    "pocet_vyskytu": 1,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "GEB. Izolace Haas k závěsném wc+bidetu",
+    "mj": "ks",
+    "cena_prumer": 75,
+    "cena_min": 75,
+    "cena_max": 75,
+    "pocet_vyskytu": 3,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "HL. HL400 sifon pračkový podomítkový DN 40/50",
+    "mj": "ks",
+    "cena_prumer": 646,
+    "cena_min": 630,
+    "cena_max": 693,
+    "pocet_vyskytu": 4,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Na_Kralovce",
+      "OAKS",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Hadice k ruční sprše",
+    "mj": "ks",
+    "cena_prumer": 120,
+    "cena_min": 120,
+    "cena_max": 120,
+    "pocet_vyskytu": 3,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Hlavová sprcha",
+    "mj": "ks",
+    "cena_prumer": 657,
+    "cena_min": 560,
+    "cena_max": 850,
+    "pocet_vyskytu": 3,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Klozet závěsný",
+    "mj": "ks",
+    "cena_prumer": 1030,
+    "cena_min": 820,
+    "cena_max": 1450,
+    "pocet_vyskytu": 3,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Modu WC Geberit",
+    "mj": "ks",
+    "cena_prumer": 7217,
+    "cena_min": 3250,
+    "cena_max": 9200,
+    "pocet_vyskytu": 3,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Montáž umyvadla",
+    "mj": "ks",
+    "cena_prumer": 1070,
+    "cena_min": 1070,
+    "cena_max": 1070,
+    "pocet_vyskytu": 1,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Ovládací tlačítko",
+    "mj": "ks",
+    "cena_prumer": 417,
+    "cena_min": 350,
+    "cena_max": 550,
+    "pocet_vyskytu": 3,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Pračkový kulový ventil pro myčku",
+    "mj": "ks",
+    "cena_prumer": 790,
+    "cena_min": 790,
+    "cena_max": 790,
+    "pocet_vyskytu": 1,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Pračkový kulový ventil pro pračku a myčku",
+    "mj": "ks",
+    "cena_prumer": 584,
+    "cena_min": 570,
+    "cena_max": 627,
+    "pocet_vyskytu": 4,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Na_Kralovce",
+      "OAKS",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Připojení pračky a sušičky vč. vybalení a osazení",
+    "mj": "ks",
+    "cena_prumer": 1100,
+    "cena_min": 1100,
+    "cena_max": 1100,
+    "pocet_vyskytu": 1,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Půlsifon trubkový zápachový uzávěr 5/4x5/4 chrom",
+    "mj": "ks",
+    "cena_prumer": 256,
+    "cena_min": 250,
+    "cena_max": 275,
+    "pocet_vyskytu": 4,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Na_Kralovce",
+      "OAKS",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Sedátko klozetové",
+    "mj": "ks",
+    "cena_prumer": 353,
+    "cena_min": 290,
+    "cena_max": 480,
+    "pocet_vyskytu": 3,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Servis splachovadla wc",
+    "mj": "soub.",
+    "cena_prumer": 550,
+    "cena_min": 550,
+    "cena_max": 550,
+    "pocet_vyskytu": 1,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Silikonování kolem umyvadla",
+    "mj": "ks",
+    "cena_prumer": 405,
+    "cena_min": 405,
+    "cena_max": 405,
+    "pocet_vyskytu": 1,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Viktorka_III"
+    ]
+  },
+  {
+    "nazev": "Sprchová baterie podomítková - část do stěny",
+    "mj": "ks",
+    "cena_prumer": 2250,
+    "cena_min": 2150,
+    "cena_max": 2450,
+    "pocet_vyskytu": 3,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Sprchové ramínko k hlavové sprše",
+    "mj": "ks",
+    "cena_prumer": 237,
+    "cena_min": 180,
+    "cena_max": 350,
+    "pocet_vyskytu": 3,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Sprchový žlab",
+    "mj": "ks",
+    "cena_prumer": 3433,
+    "cena_min": 3100,
+    "cena_max": 4100,
+    "pocet_vyskytu": 3,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "U profil do prchy",
+    "mj": "ks",
+    "cena_prumer": 6600,
+    "cena_min": 6600,
+    "cena_max": 6600,
+    "pocet_vyskytu": 1,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Umyvadlo",
+    "mj": "ks",
+    "cena_prumer": 871,
+    "cena_min": 850,
+    "cena_max": 935,
+    "pocet_vyskytu": 4,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Na_Kralovce",
+      "OAKS",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Umyvadlová baterie podomítková  - část do stěny",
+    "mj": "ks",
+    "cena_prumer": 1600,
+    "cena_min": 1500,
+    "cena_max": 1800,
+    "pocet_vyskytu": 3,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Umyvadlová baterie podomítková  - část pohledová",
+    "mj": "ks",
+    "cena_prumer": 1200,
+    "cena_min": 1200,
+    "cena_max": 1200,
+    "pocet_vyskytu": 3,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Ventil rohový 1/2\"/3/8\" s rozetou chrom",
+    "mj": "ks",
+    "cena_prumer": 305,
+    "cena_min": 270,
+    "cena_max": 420,
+    "pocet_vyskytu": 5,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV",
+      "Ahoj",
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "sprchová baterie podomítková - pohledová část",
+    "mj": "ks",
+    "cena_prumer": 1197,
+    "cena_min": 1120,
+    "cena_max": 1350,
+    "pocet_vyskytu": 3,
+    "sekce": "Zařizovací předměty",
+    "projekty": [
+      "Na_Kralovce",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Dorovnání stěn pro Němce - lícování s obkladem",
+    "mj": "m2",
+    "cena_prumer": 495,
+    "cena_min": 495,
+    "cena_max": 495,
+    "pocet_vyskytu": 1,
+    "sekce": "Úpravy povrchů vnitřní",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Natažní stěn do perlinka a lepidlo",
+    "mj": "m2",
+    "cena_prumer": 300,
+    "cena_min": 275,
+    "cena_max": 325,
+    "pocet_vyskytu": 2,
+    "sekce": "Úpravy povrchů vnitřní",
+    "projekty": [
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Nové omítky stěn tl. Do 20 mm",
+    "mj": "m2",
+    "cena_prumer": 470,
+    "cena_min": 470,
+    "cena_max": 470,
+    "pocet_vyskytu": 2,
+    "sekce": "Úpravy povrchů vnitřní",
+    "projekty": [
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Nové sádrové stěrky stěn",
+    "mj": "m2",
+    "cena_prumer": 434,
+    "cena_min": 420,
+    "cena_max": 462,
+    "pocet_vyskytu": 3,
+    "sekce": "Úpravy povrchů vnitřní",
+    "projekty": [
+      "OAKS",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Nové sádrové stěrky stěn strop",
+    "mj": "m2",
+    "cena_prumer": 528,
+    "cena_min": 528,
+    "cena_max": 528,
+    "pocet_vyskytu": 1,
+    "sekce": "Úpravy povrchů vnitřní",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Oprava sádrové omítky po demontáži keramického soklu",
+    "mj": "mb",
+    "cena_prumer": 390,
+    "cena_min": 390,
+    "cena_max": 390,
+    "pocet_vyskytu": 1,
+    "sekce": "Úpravy povrchů vnitřní",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Oprava sádrové omítky po realizaci drážek",
+    "mj": "mb",
+    "cena_prumer": 420,
+    "cena_min": 420,
+    "cena_max": 420,
+    "pocet_vyskytu": 1,
+    "sekce": "Úpravy povrchů vnitřní",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Očištění klenby",
+    "mj": "m2",
+    "cena_prumer": 630,
+    "cena_min": 630,
+    "cena_max": 630,
+    "pocet_vyskytu": 1,
+    "sekce": "Úpravy povrchů vnitřní",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Penetrace stěn",
+    "mj": "m2",
+    "cena_prumer": 43,
+    "cena_min": 42,
+    "cena_max": 46,
+    "pocet_vyskytu": 3,
+    "sekce": "Úpravy povrchů vnitřní",
+    "projekty": [
+      "OAKS",
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Přebroušení podkladu pod tapetu - ložnice stěna s kuchyní",
+    "mj": "m2",
+    "cena_prumer": 517,
+    "cena_min": 517,
+    "cena_max": 517,
+    "pocet_vyskytu": 1,
+    "sekce": "Úpravy povrchů vnitřní",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Příprava podkladů pod sádrové stěrky",
+    "mj": "m2",
+    "cena_prumer": 130,
+    "cena_min": 130,
+    "cena_max": 130,
+    "pocet_vyskytu": 1,
+    "sekce": "Úpravy povrchů vnitřní",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Příprava podkladů pro Němce",
+    "mj": "m2",
+    "cena_prumer": 570,
+    "cena_min": 570,
+    "cena_max": 570,
+    "pocet_vyskytu": 2,
+    "sekce": "Úpravy povrchů vnitřní",
+    "projekty": [
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Rovnání ostění dveří",
+    "mj": "ks",
+    "cena_prumer": 4950,
+    "cena_min": 4160,
+    "cena_max": 5740,
+    "pocet_vyskytu": 2,
+    "sekce": "Úpravy povrchů vnitřní",
+    "projekty": [
+      "Vinohradska",
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Zahození drážek",
+    "mj": "mb",
+    "cena_prumer": 370,
+    "cena_min": 370,
+    "cena_max": 370,
+    "pocet_vyskytu": 1,
+    "sekce": "Úpravy povrchů vnitřní",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Zahození drážek po rozvodech",
+    "mj": "mb",
+    "cena_prumer": 530,
+    "cena_min": 530,
+    "cena_max": 530,
+    "pocet_vyskytu": 1,
+    "sekce": "Úpravy povrchů vnitřní",
+    "projekty": [
+      "HAV"
+    ]
+  },
+  {
+    "nazev": "Zahození drážek po rozvodech vody, kanalizace, elektro a topení",
+    "mj": "mb",
+    "cena_prumer": 517,
+    "cena_min": 517,
+    "cena_max": 517,
+    "pocet_vyskytu": 1,
+    "sekce": "Úpravy povrchů vnitřní",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Zapravení po realizaci kanálu TV ložnice",
+    "mj": "soub.",
+    "cena_prumer": 3245,
+    "cena_min": 3245,
+    "cena_max": 3245,
+    "pocet_vyskytu": 1,
+    "sekce": "Úpravy povrchů vnitřní",
+    "projekty": [
+      "OAKS"
+    ]
+  },
+  {
+    "nazev": "Začištění otvoru po instalaci skrytých zárubní",
+    "mj": "ks",
+    "cena_prumer": 5350,
+    "cena_min": 5350,
+    "cena_max": 5350,
+    "pocet_vyskytu": 1,
+    "sekce": "Úpravy povrchů vnitřní",
+    "projekty": [
+      "Vinohradska"
+    ]
+  },
+  {
+    "nazev": "Úpravy - otvor po demontáži dveří",
+    "mj": "soub.",
+    "cena_prumer": 6450,
+    "cena_min": 6450,
+    "cena_max": 6450,
+    "pocet_vyskytu": 1,
+    "sekce": "Úpravy povrchů vnitřní",
+    "projekty": [
+      "Ahoj"
+    ]
+  },
+  {
+    "nazev": "Škrábání maleb a omytí pod stěrky",
+    "mj": "m2",
+    "cena_prumer": 172,
+    "cena_min": 130,
+    "cena_max": 215,
+    "pocet_vyskytu": 2,
+    "sekce": "Úpravy povrchů vnitřní",
+    "projekty": [
+      "Vinohradska",
+      "HAV"
+    ]
+  }
+]
