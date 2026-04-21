@@ -87,7 +87,6 @@ export class InvoiceService {
         clientName: projects.clientName,
         clientAddress: projects.address,
         clientIco: projects.clientIco,
-        clientDic: projects.clientDic,
       })
       .from(projects)
       .where(eq(projects.id, budget.projectId!))
@@ -111,7 +110,6 @@ export class InvoiceService {
         clientName: project?.clientName ?? project?.name ?? '',
         clientAddress: project?.clientAddress ?? undefined,
         clientIco: project?.clientIco ?? undefined,
-        clientDic: project?.clientDic ?? undefined,
       })
       .returning()
 
