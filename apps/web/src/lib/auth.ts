@@ -4,8 +4,9 @@ const ZITADEL_DOMAIN = import.meta.env['VITE_ZITADEL_DOMAIN'] as string
 const CLIENT_ID = import.meta.env['VITE_ZITADEL_CLIENT_ID'] as string
 const REDIRECT_URI = `${window.location.origin}/auth/callback`
 
-function base64url(buffer: ArrayBuffer): string {
-  return btoa(String.fromCharCode(...new Uint8Array(buffer)))
+function base64url(buffer: ArrayBuffer | Uint8Array): string {
+  const bytes = buffer instanceof Uint8Array ? buffer : new Uint8Array(buffer)
+  return btoa(String.fromCharCode(...bytes))
     .replace(/\+/g, '-')
     .replace(/\//g, '_')
     .replace(/=/g, '')
