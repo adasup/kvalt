@@ -4,7 +4,7 @@ compatibility_date = "2025-04-01"
 compatibility_flags = ["nodejs_compat"]
 
 [vars]
-ZITADEL_DOMAIN = "kvalt.zitadel.cloud"
+ZITADEL_DOMAIN = "kvalt-gajxvd.eu1.zitadel.cloud"
 ENVIRONMENT = "production"
 
 [[kv_namespaces]]
