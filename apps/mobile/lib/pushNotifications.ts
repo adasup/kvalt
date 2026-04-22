@@ -1,6 +1,6 @@
 import * as Notifications from 'expo-notifications'
 import * as Device from 'expo-device'
-import { apiFetch } from './auth.js'
+import { apiFetch } from './auth'
 
 Notifications.setNotificationHandler({
   handleNotification: async () => ({

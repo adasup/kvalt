@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { View, Text, StyleSheet, ActivityIndicator } from 'react-native'
-import { apiFetch } from '../lib/auth.js'
+import { apiFetch } from '../lib/auth'
 
 interface TomorrowAssignment {
   id: string

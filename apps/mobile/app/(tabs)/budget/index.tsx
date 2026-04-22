@@ -4,7 +4,7 @@ import {
   TextInput, ActivityIndicator, StyleSheet, Alert,
 } from 'react-native'
 import type { Budget } from '@kvalt/shared'
-import { apiFetch } from '../../../lib/auth.js'
+import { apiFetch } from '../../../lib/auth'
 
 export default function BudgetScreen() {
   const [budgets, setBudgets] = useState<Budget[]>([])

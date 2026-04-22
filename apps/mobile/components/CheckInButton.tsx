@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { View, Text, Pressable, StyleSheet, ActivityIndicator, Alert } from 'react-native'
-import { apiFetch } from '../lib/auth.js'
+import { apiFetch } from '../lib/auth'
 
 interface Props {
   projectId: string

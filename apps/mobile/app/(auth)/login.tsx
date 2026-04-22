@@ -2,8 +2,8 @@ import { View, Text, Pressable, StyleSheet } from 'react-native'
 import { useRouter } from 'expo-router'
 import * as AuthSession from 'expo-auth-session'
 import * as WebBrowser from 'expo-web-browser'
-import { saveTokens } from '../../lib/auth.js'
-import { registerForPushNotifications } from '../../lib/pushNotifications.js'
+import { saveTokens } from '../../lib/auth'
+import { registerForPushNotifications } from '../../lib/pushNotifications'
 
 WebBrowser.maybeCompleteAuthSession()
 

@@ -1,6 +1,6 @@
 import { ScrollView, Text, StyleSheet, RefreshControl, Linking, Pressable } from 'react-native'
 import { useState } from 'react'
-import { TomorrowCard } from '../../../components/TomorrowCard.js'
+import { TomorrowCard } from '../../../components/TomorrowCard'
 
 export default function PlanningScreen() {
   const [refreshKey, setRefreshKey] = useState(0)

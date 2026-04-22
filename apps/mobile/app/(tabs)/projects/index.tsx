@@ -5,7 +5,7 @@ import {
 } from 'react-native'
 import { useRouter } from 'expo-router'
 import type { Project, ProjectStatus } from '@kvalt/shared'
-import { apiFetch } from '../../../lib/auth.js'
+import { apiFetch } from '../../../lib/auth'
 
 const STATUS_LABEL: Record<ProjectStatus, string> = {
   OFFER: 'Nabídka', APPROVED: 'Schváleno', IN_PROGRESS: 'Probíhá',

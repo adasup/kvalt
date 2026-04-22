@@ -1,6 +1,6 @@
 import { ScrollView, Text, StyleSheet } from 'react-native'
-import { TomorrowCard } from '../../components/TomorrowCard.js'
-import { EarningsCard } from '../../components/EarningsCard.js'
+import { TomorrowCard } from '../../components/TomorrowCard'
+import { EarningsCard } from '../../components/EarningsCard'
 
 export default function HomeScreen() {
   return (

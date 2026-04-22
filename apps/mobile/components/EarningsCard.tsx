@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { View, Text, StyleSheet } from 'react-native'
-import { apiFetch } from '../lib/auth.js'
+import { apiFetch } from '../lib/auth'
 
 export function EarningsCard() {
   const [earnings, setEarnings] = useState<number | null>(null)

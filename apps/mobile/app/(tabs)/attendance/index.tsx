@@ -1,8 +1,8 @@
 import { useEffect, useState } from 'react'
 import { ScrollView, View, Text, StyleSheet, RefreshControl, Pressable } from 'react-native'
-import { EarningsCard } from '../../../components/EarningsCard.js'
-import { CheckInButton } from '../../../components/CheckInButton.js'
-import { apiFetch } from '../../../lib/auth.js'
+import { EarningsCard } from '../../../components/EarningsCard'
+import { CheckInButton } from '../../../components/CheckInButton'
+import { apiFetch } from '../../../lib/auth'
 
 interface AttendanceRecord {
   id: string

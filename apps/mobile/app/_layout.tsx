@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { Stack, useRouter } from 'expo-router'
-import { getAccessToken } from '../lib/auth.js'
+import { getAccessToken } from '../lib/auth'
 
 export default function RootLayout() {
   const router = useRouter()
