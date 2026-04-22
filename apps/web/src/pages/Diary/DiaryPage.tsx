@@ -1,24 +1,17 @@
 import { useEffect, useState } from 'react'
 import { apiFetch } from '../../lib/api.js'
+import { BookOpen, CloudSun, Users, CheckCircle } from 'lucide-react'
 
 interface DiaryEntry {
-  id: string
-  projectId: string
-  date: string
-  weather: string | null
-  temperature: number | null
-  description: string
-  workersPresent: number
-  createdAt: string
+  id: string; projectId: string; date: string; weather: string | null
+  temperature: number | null; description: string; workersPresent: number; createdAt: string
+}
+interface ExtraWork {
+  id: string; description: string; scope: string | null
+  estimatedPrice: number | null; approvedByClient: boolean
 }
 
-interface ExtraWork {
-  id: string
-  description: string
-  scope: string | null
-  estimatedPrice: number | null
-  approvedByClient: boolean
-}
+const inputCls = 'border border-gray-200 rounded-xl px-4 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 bg-white'
 
 export function DiaryPage() {
   const [projectId, setProjectId] = useState('')
@@ -29,9 +22,7 @@ export function DiaryPage() {
   const [newDesc, setNewDesc] = useState('')
   const [saving, setSaving] = useState(false)
 
-  useEffect(() => {
-    void apiFetch<{ id: string; name: string }[]>('/api/projects').then(setProjects)
-  }, [])
+  useEffect(() => { void apiFetch<{ id: string; name: string }[]>('/api/projects').then(setProjects) }, [])
 
   useEffect(() => {
     if (!projectId) return
@@ -45,128 +36,125 @@ export function DiaryPage() {
     try {
       const entry = await apiFetch<DiaryEntry>(`/api/diary/${projectId}`, {
         method: 'POST',
-        body: JSON.stringify({
-          date: new Date().toISOString().slice(0, 10),
-          description: newDesc,
-          structureWithAI: true,
-        }),
+        body: JSON.stringify({ date: new Date().toISOString().slice(0, 10), description: newDesc, structureWithAI: true }),
       })
       setEntries((es) => [entry, ...es])
       setNewDesc('')
-    } finally {
-      setSaving(false)
-    }
+    } finally { setSaving(false) }
   }
 
   async function approveExtraWork(workId: string) {
     await apiFetch(`/api/diary/${projectId}/extra-works/${workId}/approve`, { method: 'PATCH' })
-    setExtraWorks((ws) => ws.map((w) => (w.id === workId ? { ...w, approvedByClient: true } : w)))
+    setExtraWorks((ws) => ws.map((w) => w.id === workId ? { ...w, approvedByClient: true } : w))
   }
 
   return (
-    <div className="p-6 max-w-5xl mx-auto space-y-4">
-      <div className="flex items-center gap-3 flex-wrap">
-        <h1 className="text-2xl font-bold text-gray-900">Stavební deník</h1>
-        <select
-          value={projectId}
-          onChange={(e) => { setProjectId(e.target.value); setSelected(null) }}
-          className="ml-auto border border-gray-300 rounded-lg px-3 py-2 text-sm"
-        >
+    <div className="p-8 max-w-6xl mx-auto space-y-6">
+      <div className="flex items-start justify-between flex-wrap gap-4">
+        <div>
+          <h1 className="text-2xl font-bold text-gray-900">Stavební deník</h1>
+          <p className="text-sm text-gray-500 mt-0.5">Záznamy průběhu prací</p>
+        </div>
+        <select value={projectId} onChange={(e) => { setProjectId(e.target.value); setSelected(null) }} className={inputCls}>
           <option value="">— Vyberte zakázku —</option>
           {projects.map((p) => <option key={p.id} value={p.id}>{p.name}</option>)}
         </select>
       </div>
 
-      {projectId && (
+      {!projectId ? (
+        <div className="bg-white rounded-2xl border border-gray-100 shadow-sm py-16 flex flex-col items-center gap-2">
+          <BookOpen size={32} className="text-gray-200" />
+          <p className="text-sm text-gray-400">Vyberte zakázku pro zobrazení deníku</p>
+        </div>
+      ) : (
         <>
           {/* New entry */}
-          <div className="bg-white rounded-xl border border-gray-200 p-4 space-y-3">
-            <p className="text-sm font-semibold text-gray-700">Nový zápis (AI strukturuje automaticky)</p>
-            <textarea
-              value={newDesc}
-              onChange={(e) => setNewDesc(e.target.value)}
-              rows={3}
+          <div className="bg-white rounded-2xl border border-gray-100 shadow-sm p-5 space-y-3">
+            <div className="flex items-center gap-2 mb-1">
+              <div className="w-6 h-6 bg-blue-100 rounded-lg flex items-center justify-center">
+                <BookOpen size={13} className="text-blue-600" />
+              </div>
+              <p className="text-sm font-semibold text-gray-900">Nový zápis</p>
+              <span className="text-xs text-gray-400 ml-1">AI strukturuje automaticky</span>
+            </div>
+            <textarea value={newDesc} onChange={(e) => setNewDesc(e.target.value)} rows={3}
               placeholder="Popište dnešní práci…"
-              className="w-full border border-gray-200 rounded-lg px-3 py-2 text-sm resize-none focus:outline-none focus:border-blue-400"
-            />
-            <button
-              onClick={() => void createEntry()}
-              disabled={saving || !newDesc.trim()}
-              className="px-4 py-2 bg-blue-600 text-white text-sm rounded-lg font-semibold hover:bg-blue-700 disabled:opacity-50"
-            >
-              {saving ? 'Ukládám…' : 'Uložit zápis'}
-            </button>
+              className="w-full border border-gray-200 rounded-xl px-4 py-3 text-sm resize-none focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent" />
+            <div className="flex justify-end">
+              <button onClick={() => void createEntry()} disabled={saving || !newDesc.trim()}
+                className="px-5 py-2.5 bg-blue-600 hover:bg-blue-700 text-white text-sm rounded-xl font-medium disabled:opacity-50 transition-colors">
+                {saving ? 'Ukládám…' : 'Uložit zápis'}
+              </button>
+            </div>
           </div>
 
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
+          <div className="grid grid-cols-1 lg:grid-cols-5 gap-6">
             {/* Entry list */}
-            <section className="space-y-2">
-              <h2 className="text-sm font-semibold text-gray-500 uppercase tracking-wide">Záznamy</h2>
+            <div className="lg:col-span-3 space-y-2">
+              <h2 className="text-xs font-semibold text-gray-400 uppercase tracking-wide px-1">Záznamy ({entries.length})</h2>
               {entries.length === 0 ? (
-                <p className="text-sm text-gray-400">Žádné záznamy</p>
-              ) : (
-                entries.map((e) => (
-                  <button
-                    key={e.id}
-                    onClick={() => setSelected(selected?.id === e.id ? null : e)}
-                    className={`w-full text-left bg-white rounded-xl border p-4 transition-colors ${selected?.id === e.id ? 'border-blue-400' : 'border-gray-200 hover:border-gray-300'}`}
-                  >
-                    <div className="flex items-center justify-between mb-1">
-                      <span className="font-semibold text-sm">{e.date}</span>
-                      <span className="text-xs text-gray-400">
-                        {e.workersPresent} prac. {e.weather ? `· ${e.weather}` : ''}{e.temperature !== null ? ` ${e.temperature}°C` : ''}
-                      </span>
+                <div className="bg-white rounded-2xl border border-gray-100 shadow-sm py-10 text-center">
+                  <p className="text-sm text-gray-400">Žádné záznamy</p>
+                </div>
+              ) : entries.map((e) => (
+                <button key={e.id} onClick={() => setSelected(selected?.id === e.id ? null : e)}
+                  className={`w-full text-left bg-white rounded-2xl border shadow-sm p-4 transition-all ${selected?.id === e.id ? 'border-blue-300 ring-1 ring-blue-200' : 'border-gray-100 hover:border-gray-200'}`}>
+                  <div className="flex items-start justify-between gap-3 mb-2">
+                    <span className="font-semibold text-sm text-gray-900">{e.date}</span>
+                    <div className="flex items-center gap-3 text-xs text-gray-400">
+                      {e.workersPresent > 0 && <span className="flex items-center gap-1"><Users size={11} />{e.workersPresent}</span>}
+                      {e.weather && <span className="flex items-center gap-1"><CloudSun size={11} />{e.weather}{e.temperature !== null ? ` ${e.temperature}°C` : ''}</span>}
                     </div>
-                    <p className="text-sm text-gray-600 line-clamp-2">{e.description}</p>
-                  </button>
-                ))
-              )}
-            </section>
+                  </div>
+                  <p className="text-sm text-gray-600 line-clamp-2 leading-relaxed">{e.description}</p>
+                </button>
+              ))}
+            </div>
 
-            {/* Selected entry detail + extra works */}
-            <section className="space-y-4">
+            {/* Detail + extra works */}
+            <div className="lg:col-span-2 space-y-4">
               {selected && (
-                <div className="bg-white rounded-xl border border-gray-200 p-4">
-                  <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-2">{selected.date}</p>
-                  <p className="text-sm text-gray-700 whitespace-pre-wrap">{selected.description}</p>
+                <div className="bg-white rounded-2xl border border-gray-100 shadow-sm p-5">
+                  <p className="text-xs font-semibold text-gray-400 uppercase tracking-wide mb-3">{selected.date}</p>
+                  <p className="text-sm text-gray-700 whitespace-pre-wrap leading-relaxed">{selected.description}</p>
                 </div>
               )}
 
-              <div>
-                <h2 className="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-2">Vícepráce</h2>
+              <div className="bg-white rounded-2xl border border-gray-100 shadow-sm overflow-hidden">
+                <div className="px-5 py-4 border-b border-gray-100">
+                  <h2 className="font-semibold text-gray-900 text-sm">Vícepráce</h2>
+                </div>
                 {extraWorks.length === 0 ? (
-                  <p className="text-sm text-gray-400">Žádné vícepráce</p>
+                  <p className="text-sm text-gray-400 px-5 py-8 text-center">Žádné vícepráce</p>
                 ) : (
-                  extraWorks.map((w) => (
-                    <div key={w.id} className="bg-white rounded-xl border border-gray-200 p-3 mb-2 flex items-start justify-between">
-                      <div>
-                        <p className="text-sm font-medium">{w.description}</p>
-                        {w.scope && <p className="text-xs text-gray-500">{w.scope}</p>}
-                        {w.estimatedPrice !== null && (
-                          <p className="text-xs text-gray-500">{w.estimatedPrice.toLocaleString('cs-CZ')} Kč</p>
+                  <div className="divide-y divide-gray-50">
+                    {extraWorks.map((w) => (
+                      <div key={w.id} className="px-5 py-4 flex items-start justify-between gap-3">
+                        <div className="min-w-0">
+                          <p className="text-sm font-medium text-gray-900">{w.description}</p>
+                          {w.scope && <p className="text-xs text-gray-500 mt-0.5">{w.scope}</p>}
+                          {w.estimatedPrice !== null && (
+                            <p className="text-xs text-gray-500 mt-0.5">{w.estimatedPrice.toLocaleString('cs-CZ')} Kč</p>
+                          )}
+                        </div>
+                        {w.approvedByClient ? (
+                          <span className="flex items-center gap-1 text-xs text-emerald-600 font-semibold shrink-0">
+                            <CheckCircle size={12} />Schváleno
+                          </span>
+                        ) : (
+                          <button onClick={() => void approveExtraWork(w.id)}
+                            className="text-xs px-3 py-1.5 border border-gray-200 rounded-lg hover:bg-gray-50 text-gray-600 shrink-0 transition-colors">
+                            Schválit
+                          </button>
                         )}
                       </div>
-                      {w.approvedByClient ? (
-                        <span className="text-xs text-green-600 font-semibold">✓ Schváleno</span>
-                      ) : (
-                        <button
-                          onClick={() => void approveExtraWork(w.id)}
-                          className="text-xs px-2 py-1 border border-gray-300 rounded hover:bg-gray-50"
-                        >
-                          Schválit
-                        </button>
-                      )}
-                    </div>
-                  ))
+                    ))}
+                  </div>
                 )}
               </div>
-            </section>
+            </div>
           </div>
         </>
-      )}
-
-      {!projectId && (
-        <p className="text-gray-400 text-sm pt-4">Vyberte zakázku pro zobrazení deníku.</p>
       )}
     </div>
   )
