@@ -69,6 +69,9 @@ importers:
 
   apps/mobile:
     dependencies:
+      '@babel/runtime':
+        specifier: ^7.29.2
+        version: 7.29.2
       '@kvalt/shared':
         specifier: workspace:*
         version: link:../../packages/shared
