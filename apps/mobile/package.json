@@ -11,11 +11,14 @@
     "build:android": "eas build --platform android"
   },
   "dependencies": {
+    "@babel/runtime": "^7.29.2",
+    "@expo/vector-icons": "^15.1.1",
     "@kvalt/shared": "workspace:*",
     "expo": "~52.0.0",
-    "expo-router": "~4.0.0",
-    "expo-notifications": "~0.29.0",
+    "expo-font": "^55.0.6",
     "expo-location": "~18.0.0",
+    "expo-notifications": "~0.29.0",
+    "expo-router": "~4.0.0",
     "expo-secure-store": "~14.0.0",
     "react": "18.3.1",
     "react-native": "0.76.5",
